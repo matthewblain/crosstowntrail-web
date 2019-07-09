@@ -14,7 +14,7 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART\
 * Continue past closed fishing pier.
 * Trail continues as path alongside road.
 * At next intersection, turn left and follow trail along shoreline. **(Note: Resume route from detour above.)**
-* Just after the pathway turns to colored concrete, take the next hard right onto a dirt pathway which follows the road (Harney Way). 
+* Just after the pathway turns to colored concrete, take the next hard right onto a dirt pathway which follows the road (Harney Way).
 * Follow the pathway a few hundred feet to a crosswalk exit on your left
 * Exit Candlestick Point State Recreation Area; cross Harney Way to Executive Park Blvd.
 * Proceed one block up Executive Park.
@@ -32,23 +32,23 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART\
 * Turn right into Greenway.
 * Exit Greenway at Tioga and turn left. **(Note: Resume route from detour.)**
 * Turn right at Delta.
-* Turn left at Wilde, enter McLaren Park. Take paved trail uphill. 
+* Turn left at Wilde, enter McLaren Park. Take paved trail uphill.
 * **(Note: Trail through McLaren may be narrow and has several stairways. You may need to walk your bike. To go around, go back to Delta, ride uphill one block to Hamilton, ride uphill one block to Mansell, turn left on Mansell. Continue onto bike way. Turn right on Shelley Drive, then right on Cambridge to Bacon.)**
 * At top of stairway, you have reached an intersection with Philosopher's Way, marked with arrows on stone columns. Turn left and left again to reach intersection of Visitacion and Mansell .
 * Cross Visitacion and Mansell.
-* Continue along Philosopher’s Way by heading directly north on the paved path through the Cypress Allee.  (**restrooms** past tennis courts on your left.) 
+* Continue along Philosopher’s Way by heading directly north on the paved path through the Cypress Allee.  (**restrooms** past tennis courts on your left.)
 * Proceed downhill and northwest, following Philosopher’s Way arrows across a road.
 * Cross Shelley Dr. and follow Philosopher’s Way arrows as trail curves right, past caretaker’s cottage. (**restrooms** at Jerry Garcia Amphitheater to your left).
 * Continue straight along the paved path, leaving Philosopher’s Way, to the intersection of Shelley Dr. and Cambridge Dr..
 * Cross intersection and pick up paved path on left (approximately 30 feet down Cambridge).
 * Proceed west on trail. At next fork, bear right and right again. Pass **restrooms** on right and Yosemite Marsh on the left.
-* Exit McLaren Park at Bacon and Oxford. 
+* Exit McLaren Park at Bacon and Oxford.
 * Turn right on Bacon St.
 * Turn left on Cambridge and ride seven blocks to Hwy. 280. **(Note: Resume route from detour.)**
 * Cross Hwy. 280 on St. Mary’s Park Footbridge and go uphill, passing trail to Alemany Farm.
 * At path’s end, exit St. Mary’s Recreation Center (**restrooms**) onto Murray.
 * Cross Mission and continue west on Bosworth.
-* Section ends at Glen Park BART Station at Bosworth and Diamond. 
+* Section ends at Glen Park BART Station at Bosworth and Diamond.
 
 <div style="page-break-after: always;"></div>
 
@@ -57,20 +57,20 @@ Glen Park BART Station to Forest Hill MUNI Metro Station\
 3.1 miles / 720' of elevation gain
 
 * Segment 2 North starts at the intersection of Bosworth and Diamond, at Glen Park BART.
-* Ride uphill (west) on Bosworth Street. 
+* Ride uphill (west) on Bosworth Street.
 * Where bike lane ends at sign for Glen Park Rec Center, continue on sidewalk path to climb O'Shaughnessy Blvd. (Note: **restrooms** at Rec Center.)
 * At top of O'Shaugnessy turn right onto Portola then immediately left onto Twin Peaks Blvd.
 * Ride up Twin Peaks one block, turn left on Panorama.
 * At the crest of the hill, just past Mountview, switch to dirt trail on the left side of the street.
-* Bear left on dirt trail to enter the Laguna Honda Community Trail System. 
+* Bear left on dirt trail to enter the Laguna Honda Community Trail System.
 * At the Laguna Honda Trail kiosk, take any trail that will take you downhill to the right of the two water tanks to the hospital parking lot.
 * Follow the curb on north end of parking lot (side closest to Sutro Tower). Pass a stop sign and then turn right at the “Trail’ sign.
 * Follow a number of switchbacks downhill. At the bottom of the hill, bear right and stay on dirt trail. (Note: If you follow the concrete pathway to the left, you can pay a visit to the Virginia Leishman Farm (limited hours), where you will find a restroom as well as a small farmyard of friendly goats, sheep, and pigs.)
-* Continue down the dirt trail approximately 1/4 mile to a junction. Head left and uphill. 
-* Continue up the dirt trail. At the next junction (near the edge of the parking lot), turn left and go up the trail.  
-* As you near Laguna Honda Blvd., look for a semi-paved path and stairway to your left, and cut over to take it down to Laguna Honda Blvd.  
+* Continue down the dirt trail approximately 1/4 mile to a junction. Head left and uphill.
+* Continue up the dirt trail. At the next junction (near the edge of the parking lot), turn left and go up the trail.
+* As you near Laguna Honda Blvd., look for a semi-paved path and stairway to your left, and cut over to take it down to Laguna Honda Blvd.
 * Cross Laguna Honda Boulevard at crosswalk.
-* Segment 2 ends at Forest Hill MUNI Station. 
+* Segment 2 ends at Forest Hill MUNI Station.
 
 <div style="page-break-after: always;"></div>
 
@@ -91,7 +91,7 @@ Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue\
 * Turn left on 9th Ave
 * Continue right on 12th Ave.
 * Turn left on Quintara.
-* Turn right on 14th Avenue. 
+* Turn right on 14th Avenue.
 * Continue on 14th along the Green Hairstreak Corridor and passing Rocky Outcrop to Noriega.
 * Bear left on Noriega. Pass stairway to Grandview Park.
 * Turn left on Aloha.
@@ -105,7 +105,7 @@ Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue\
 
 <div style="page-break-after: always;"></div>
 
-## Section 4 North  Bike 
+## Section 4 North  Bike
 Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway\
 2.2 miles / 100' elevation gain
 
@@ -113,21 +113,21 @@ Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway\
 * Ride down (North) 16th Avenue to Irving and turn left.
 * Turn right at 20th Avenue.
 * Continue straight into Golden Gate Park on path.  (Note: **restrooms** available on MLK just east of Crossover Drive).
-* Use crosswalk on right side of intersection to cross MLK Drive, a small asphalt island, and Transverse Drive. 
+* Use crosswalk on right side of intersection to cross MLK Drive, a small asphalt island, and Transverse Drive.
 * Turn left on narrow dirt trail. Note: You are now following the route defined by the Golden Gate Park Multi Use Trails Pilot; there will be occasional directional signs.
 * Follow trail to intersection of JFK and Transverse Drive.
 * Cross Transverse and JFK to NW corner. (Note: Water fountain.)
 * Continue north on wide dirt trail along Transverse to next crosswalk.
-* Cross Transverse, then cross Crossover Drive (watch for traffic going to/from Hwy 1). 
+* Cross Transverse, then cross Crossover Drive (watch for traffic going to/from Hwy 1).
 * Turn right on narrow dirt trail.
 * Bear left at next fork, follow trail to intersection of Fulton and Park Presidio.
 * Cross Fulton and Park Presidio to NE Corner. You are now leaving Golden Gate Park.
 * Head north on wide dirt path in Presidio Park Greenway on right.
 * Follow Presidio Park Greenway to Geary Blvd. by crossing Cabrillo, Balboa, and Anza at traffic lights  .
 * Segment 4 of Crosstown Trail ends at Geary Blvd. and Presidio Park Greenway.
- 
+
 <div style="page-break-after: always;"></div>
- 
+
 ## Segment 5 North Bike
 Geary and Park Presidio to Lands End\
 3.2 miles / 350' elevation gain
