@@ -53,7 +53,7 @@
 <div style="page-break-after: always;"></div>
 
 ## Segment 2  North Bike
-Glen Park BART Station to Forest Hill MUNI Metro Station
+Glen Park BART Station to Forest Hill MUNI Metro Station\
 3.1 miles / 720' of elevation gain
 
 * Segment 2 North starts at the intersection of Bosworth and Diamond, at Glen Park BART.
