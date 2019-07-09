@@ -49,10 +49,12 @@
 * At path’s end, exit St. Mary’s Recreation Center (**restrooms**) onto Murray.
 * Cross Mission and continue west on Bosworth.
 * Section ends at Glen Park BART Station at Bosworth and Diamond. 
- 
+
+<div style="page-break-after: always;"></div>
+
 ## Segment 2  North Bike
-#### Glen Park BART Station to Forest Hill MUNI Metro Station
-#### 3.1 miles / 720' of elevation gain
+Glen Park BART Station to Forest Hill MUNI Metro Station
+3.1 miles / 720' of elevation gain
 
 * Segment 2 North starts at the intersection of Bosworth and Diamond, at Glen Park BART.
 * Ride uphill (west) on Bosworth Street. 
@@ -69,6 +71,8 @@
 * As you near Laguna Honda Blvd., look for a semi-paved path and stairway to your left, and cut over to take it down to Laguna Honda Blvd.  
 * Cross Laguna Honda Boulevard at crosswalk.
 * Segment 2 ends at Forest Hill MUNI Station. 
+
+<div style="page-break-after: always;"></div>
 
 ## Segment 3 North Bike
 #### Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue
@@ -99,6 +103,8 @@
 * Turn left on 16th and go one block to Irving.
 * Segment 3 North ends at 16th and Judah. (Note: Bicycles are not allowed on N Judah; bus routes 28, 7, 43, 44, and 6 are nearby).
 
+<div style="page-break-after: always;"></div>
+
 ## Section 4 North  Bike 
 #### Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway 
 #### 2.2 miles / 100' elevation gain
@@ -119,6 +125,8 @@
 * Head north on wide dirt path in Presidio Park Greenway on right.
 * Follow Presidio Park Greenway to Geary Blvd. by crossing Cabrillo, Balboa, and Anza at traffic lights  .
 * Segment 4 of Crosstown Trail ends at Geary Blvd. and Presidio Park Greenway.
+ 
+<div style="page-break-after: always;"></div>
  
 ## Segment 5 North Bike
 #### Geary and Park Presidio to Lands End
