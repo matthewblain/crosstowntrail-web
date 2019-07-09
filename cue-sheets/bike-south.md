@@ -1,7 +1,7 @@
 # Crosstown Trail Bike Cue Sheet, Southbound
 
 ## Section 5 South Bike
-Lands End to Geary and Park Presidio\
+Lands End to Geary and Park Presidio  
 3.2 miles / 375' elevation gain
 
 * Section 5 South starts at Lands End Lookout visitors center.
@@ -21,7 +21,7 @@ Lands End to Geary and Park Presidio\
 <div style="page-break-after: always;"></div>
 
 ## Section 4 South Bike
-Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue\
+Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue  
 2.2 miles / 200' elevation gain
 
 * Section 4 South of Crosstown Trail starts at Geary and Presidio Park Greenway.
@@ -47,7 +47,7 @@ Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue\
 <div style="page-break-after: always;"></div>
 
 ## Section 3 South Bike
-Judah and 16th to Forest Hill MUNI Metro Station\
+Judah and 16th to Forest Hill MUNI Metro Station  
 2.6 miles / 610' elevation gain
 
 * Section 3 South starts at the intersection of 16th and Judah. (Note: Bicycles are not allowed on N Judah; bus routes 28, 7, 43, 44, and 6 are nearby)
@@ -77,7 +77,7 @@ Judah and 16th to Forest Hill MUNI Metro Station\
 <div style="page-break-after: always;"></div>
 
 ## Section 2 South Bike
-Forest Hill MUNI Metro Station to Glen Park BART Station\
+Forest Hill MUNI Metro Station to Glen Park BART Station  
 3.1 miles / 450' elevation gain
 
 * Section 2 South starts in front of Forest Hill MUNI Metro Station.
@@ -97,7 +97,7 @@ Forest Hill MUNI Metro Station to Glen Park BART Station\
 <div style="page-break-after: always;"></div>
 
 ## San Francisco Crosstown Trail, Section 1 - South Bike
-Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area\
+Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area  
 5.3 miles/ 650' elevation gain
 
 * Section 1 South starts at the intersection of Bosworth and Diamond, at Glen Park BART.

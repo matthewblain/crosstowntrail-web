@@ -1,7 +1,7 @@
 # Crosstown Trail Hike Cue Sheet, Southbound
 
 ## Section 5 - Hike South
-Lands End to Geary and Park Presidio\
+Lands End to Geary and Park Presidio  
 3.9 miles / 550' elevation gain
 
 * Section 5 South starts at ocean side of Lands End Lookout visitors center (**Restrooms**, water, cafe, info).
@@ -32,7 +32,7 @@ Lands End to Geary and Park Presidio\
 <div style="page-break-after: always;"></div>
 
 ## Section 4 - Hike South
-Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue\
+Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue  
 2.3 miles / 230' elevation gain
 
 * Section 4 South begins at southeast corner of Geary and Park Presidio Blvd.
@@ -59,7 +59,7 @@ Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue\
 <div style="page-break-after: always;"></div>
 
 ## Section 3 - Hike South
-Judah and 16th to Forest Hill MUNI Metro Station\
+Judah and 16th to Forest Hill MUNI Metro Station  
 2.1 miles - 650' elevation gain
 
 * Section 3 South begins at intersection of Judah and 16th Avenue.
@@ -90,7 +90,7 @@ Judah and 16th to Forest Hill MUNI Metro Station\
 <div style="page-break-after: always;"></div>
 
 ## Section 2 - Hike South
-Forest Hill MUNI Metro Station to Glen Park BART Station\
+Forest Hill MUNI Metro Station to Glen Park BART Station  
 3.1 miles / 470' elevation gain
 
 * Section 2 South starts in front of Forest Hill MUNI Metro Station.
@@ -118,7 +118,7 @@ Forest Hill MUNI Metro Station to Glen Park BART Station\
 <div style="page-break-after: always;"></div>
 
 ## Section 1 - Hike South
-Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area\
+Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area  
 5.6 miles / 650' elevation gain)
 
 * Section 1 South starts at intersection of Bosworth and Diamond, at Glen Park BART.

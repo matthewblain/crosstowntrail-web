@@ -1,7 +1,7 @@
 # Crosstown Trail Bike Cue Sheet, Northbound
 
 ## Section 1 North Bike
-Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART\
+Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  
 5.3 miles / 820' elevation gain
 
 * Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **restrooms**.
@@ -53,7 +53,7 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART\
 <div style="page-break-after: always;"></div>
 
 ## Segment 2  North Bike
-Glen Park BART Station to Forest Hill MUNI Metro Station\
+Glen Park BART Station to Forest Hill MUNI Metro Station  
 3.1 miles / 720' of elevation gain
 
 * Segment 2 North starts at the intersection of Bosworth and Diamond, at Glen Park BART.
@@ -75,7 +75,7 @@ Glen Park BART Station to Forest Hill MUNI Metro Station\
 <div style="page-break-after: always;"></div>
 
 ## Segment 3 North Bike
-Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue\
+Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue  
 2.3 miles / 450' of elevation gain
 
 * Segment 3 starts at Forest Hill MUNI Station.
@@ -106,7 +106,7 @@ Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue\
 <div style="page-break-after: always;"></div>
 
 ## Section 4 North  Bike
-Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway\
+Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway  
 2.2 miles / 100' elevation gain
 
 * Segment 4 North starts at 16th and Judah. (Note: Bicycles are not allowed on N Judah; bus routes 28, 7, 43, 44, and 6 are nearby)
@@ -129,7 +129,7 @@ Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway\
 <div style="page-break-after: always;"></div>
 
 ## Segment 5 North Bike
-Geary and Park Presidio to Lands End\
+Geary and Park Presidio to Lands End  
 3.2 miles / 350' elevation gain
 
 * Segment 5 starts at the intersection of Geary and Park Presidio.

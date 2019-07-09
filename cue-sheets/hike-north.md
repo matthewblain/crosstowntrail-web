@@ -1,7 +1,7 @@
 # Crosstown Trail Hike Cue Sheet, Northbound
 
 ## Section 1 - Hike North
-Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART\
+Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  
 5.3 miles / 820' elevation gain
 
 * Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **Restrooms**.
@@ -50,7 +50,7 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART\
 <div style="page-break-after: always;"></div>
 
 ## Section 2 - Hike North
-Glen Park BART Station to Forest Hill MUNI Metro Station\
+Glen Park BART Station to Forest Hill MUNI Metro Station  
 3.1 miles / 740' elevation gain
 
 * Section 2 North starts at intersection of Bosworth and Diamond, at Glen Park BART.
@@ -79,7 +79,7 @@ Glen Park BART Station to Forest Hill MUNI Metro Station\
 <div style="page-break-after: always;"></div>
 
 ## Section 3 - Hike North
-Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue\
+Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue  
 2.1 miles / 500'elevation gain)
 
 * Section 3 North begins in front of Forest Hill MUNI Metro Station
@@ -111,7 +111,7 @@ Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue\
 <div style="page-break-after: always;"></div>
 
 ## Section 4 - Hike North
-Judah and 16th Avenue to Geary and Presidio Parkway\
+Judah and 16th Avenue to Geary and Presidio Parkway  
 2.3 miles / 120' elevation gain
 
 * Section 4 begins at intersection of 16th Avenue and Judah
@@ -136,7 +136,7 @@ Judah and 16th Avenue to Geary and Presidio Parkway\
 <div style="page-break-after: always;"></div>
 
 ## Section 5 - Hike North
-Geary and Park Presidio to Lands End Lookout Visitor Center\
+Geary and Park Presidio to Lands End Lookout Visitor Center  
 3.9 miles / 510 ft. elevation gain
 
 * Section 5 North starts at northeast side of Geary and Park Presidio.
