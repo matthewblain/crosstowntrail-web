@@ -1,8 +1,8 @@
 # Crosstown Trail Bike Cue Sheet, Northbound
 
 ## Section 1 North Bike
-#### Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
-#### 5.3 miles / 820' elevation gain
+Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART\
+5.3 miles / 820' elevation gain
 
 * Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **restrooms**.
 * Take left fork and continue west on paved path, with views of water on both sides.
@@ -75,8 +75,8 @@ Glen Park BART Station to Forest Hill MUNI Metro Station\
 <div style="page-break-after: always;"></div>
 
 ## Segment 3 North Bike
-#### Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue
-#### 2.3 miles / 450' of elevation gain
+Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue\
+2.3 miles / 450' of elevation gain
 
 * Segment 3 starts at Forest Hill MUNI Station.
 * Note: This neighborhood is a maze of twisty streets.
@@ -106,8 +106,8 @@ Glen Park BART Station to Forest Hill MUNI Metro Station\
 <div style="page-break-after: always;"></div>
 
 ## Section 4 North  Bike 
-#### Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway 
-#### 2.2 miles / 100' elevation gain
+Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway\
+2.2 miles / 100' elevation gain
 
 * Segment 4 North starts at 16th and Judah. (Note: Bicycles are not allowed on N Judah; bus routes 28, 7, 43, 44, and 6 are nearby)
 * Ride down (North) 16th Avenue to Irving and turn left.
@@ -129,8 +129,8 @@ Glen Park BART Station to Forest Hill MUNI Metro Station\
 <div style="page-break-after: always;"></div>
  
 ## Segment 5 North Bike
-#### Geary and Park Presidio to Lands End
-#### 3.2 miles / 350' elevation gain
+Geary and Park Presidio to Lands End\
+3.2 miles / 350' elevation gain
 
 * Segment 5 starts at the intersection of Geary and Park Presidio.
 * Head to the NE corner and head North on wide dirt trail in Park Presidio Greenway.
