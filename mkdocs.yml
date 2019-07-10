@@ -2,6 +2,16 @@ site_name: Crosstown Trail Cue Sheets
 site_favicon: https://crosstowntrail.org/wp-content/uploads/2019/04/cropped-crosstowntraillogo-1-32x32.png
 google_analytics: ['UA-140052176-1', 'crosstowntrail.org']
 theme: 
-   name: readthedocs
+   #name: readthedocs
+   name: mkdocs
    highlightjs: false
+   custom_dir: custom_theme/
 docs_dir: cue-sheets
+site_dir: site/cue-sheets
+# This (extra_css) doesn't seem to copy the file? 
+extra_css:
+    - css/extra.css
+plugins:
+    - pdf-export
+# https://github.com/zhaoterryy/mkdocs-pdf-export-plugin 
+# Be sure to run gtk2r-env.bat

@@ -1,4 +1,4 @@
-# Cue Sheets
+# About
 
 Welcome to the cue sheets section of the Crosstown Trail site.
 
