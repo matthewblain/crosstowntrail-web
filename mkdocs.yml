@@ -4,8 +4,12 @@ site_dir: site/cue-sheets
 google_analytics: ['UA-140052176-1', 'crosstowntrail.org']
 site_favicon: https://crosstowntrail.org/wp-content/uploads/2019/04/cropped-crosstowntraillogo-1-32x32.png
 
+# With the mkdcos theme, the nav across the top looks horrible with many many items.
+# For now, just make it a single item = no navbar.
+nav:
+   - README.md
+
 theme: 
-   #name: readthedocs
    name: mkdocs
    highlightjs: false
    custom_dir: custom_theme_mkdocs
