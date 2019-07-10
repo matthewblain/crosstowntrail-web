@@ -1,17 +1,25 @@
 site_name: Crosstown Trail Cue Sheets
-site_favicon: https://crosstowntrail.org/wp-content/uploads/2019/04/cropped-crosstowntraillogo-1-32x32.png
+docs_dir: cue-sheets
+site_dir: site/cue-sheets
 google_analytics: ['UA-140052176-1', 'crosstowntrail.org']
+site_favicon: https://crosstowntrail.org/wp-content/uploads/2019/04/cropped-crosstowntraillogo-1-32x32.png
+
 theme: 
    #name: readthedocs
    name: mkdocs
    highlightjs: false
-   custom_dir: custom_theme/
-docs_dir: cue-sheets
-site_dir: site/cue-sheets
-# This (extra_css) doesn't seem to copy the file? 
+   custom_dir: custom_theme_mkdocs
+   # Disable keyboard nav, not useful for us.
+   shortcuts:
+
 extra_css:
     - css/extra.css
+
 plugins:
+    # Note to use pdf-export, install mkdocs-pdf-export-plugin.
+    # This requires Cairo, remember to run gtk2r-env.bat
+    # Or disable pdf-export if needed.
+    # https://github.com/zhaoterryy/mkdocs-pdf-export-plugin 
     - pdf-export
-# https://github.com/zhaoterryy/mkdocs-pdf-export-plugin 
-# Be sure to run gtk2r-env.bat
+    # Search is not useful here, so un-listing it from plugins is good.
+    #- search

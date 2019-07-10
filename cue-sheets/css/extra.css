@@ -1,0 +1,30 @@
+@media print {
+@page {
+    /*margin: 0.75in !important*/
+	}
+body {
+    padding-top: 1px;
+}
+}
+
+/* Remove mkdocs grid */
+body::before {
+    background: none;
+
+}
+
+/* Color changes */
+.navbar {
+    background-image: none; 
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #178acc;
+    filter: none;
+    -webkit-box-shadow: 0 1px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 1px 10px rgba(0,0,0,0.1);
+}
+.navbar-default {
+    background-color: rgb(0,115,177);
+	color: white;
+	font-style: bold;
+    border-color: black;
+}

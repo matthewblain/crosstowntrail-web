@@ -6,3 +6,10 @@ For more information about the crosstown trail, please visit the main
 [crosstowntrail.org](https://crosstowntrail.org) site.
 
 If you print these, they should automatically print one section per page.
+
+Available items:
+ 
+* [Bike North](bike-north.md)
+* [Bike South](bike-south.md)
+* [Hike North](hike-north.md)
+* [Hike South](hike-south.md)
