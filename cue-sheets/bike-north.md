@@ -38,9 +38,9 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * **(Note: Trail through McLaren may be narrow and has several stairways. You may need to walk your bike. To go around, go back to Delta, ride uphill one block to Hamilton, ride uphill one block to Mansell, turn left on Mansell. Continue onto bike way. Turn right on Shelley Drive, then right on Cambridge to Bacon.)**
 * At top of stairway, you have reached an intersection with Philosopher's Way, marked with arrows on stone columns. Turn left and left again to reach intersection of Visitacion and Mansell .
 * Cross Visitacion and Mansell.
-* Continue along Philosopher’s Way by heading directly north on the paved path through the Cypress Allee.  (**restrooms** past tennis courts on your left.)
+* Continue along Philosopher’s Way by heading directly north on the paved path through the Cypress Allee.  (**Restrooms** past tennis courts on your left.)
 * Proceed downhill and northwest, following Philosopher’s Way arrows across a road.
-* Cross Shelley Dr. and follow Philosopher’s Way arrows as trail curves right, past caretaker’s cottage. (**restrooms** at Jerry Garcia Amphitheater to your left).
+* Cross Shelley Dr. and follow Philosopher’s Way arrows as trail curves right, past caretaker’s cottage. (**Restrooms** at Jerry Garcia Amphitheater to your left).
 * Continue straight along the paved path, leaving Philosopher’s Way, to the intersection of Shelley Dr. and Cambridge Dr..
 * Cross intersection and pick up paved path on left (approximately 30 feet down Cambridge).
 * Proceed west on trail. At next fork, bear right and right again. Pass **restrooms** on right and Yosemite Marsh on the left.
@@ -67,7 +67,7 @@ Glen Park BART Station to Forest Hill MUNI Metro Station
 * Bear left on dirt trail to enter the Laguna Honda Community Trail System.
 * At the Laguna Honda Trail kiosk, take any trail that will take you downhill to the right of the two water tanks to the hospital parking lot.
 * Follow the curb on north end of parking lot (side closest to Sutro Tower). Pass a stop sign and then turn right at the “Trail’ sign.
-* Follow a number of switchbacks downhill. At the bottom of the hill, bear right and stay on dirt trail. (Note: If you follow the concrete pathway to the left, you can pay a visit to the Virginia Leishman Farm (limited hours), where you will find a restroom as well as a small farmyard of friendly goats, sheep, and pigs.)
+* Follow a number of switchbacks downhill. At the bottom of the hill, bear right and stay on dirt trail. (Note: If you follow the concrete pathway to the left, you can pay a visit to the Virginia Leishman Farm (limited hours), where you will find **restrooms** as well as a small farmyard of friendly goats, sheep, and pigs.)
 * Continue down the dirt trail approximately 1/4 mile to a junction. Head left and uphill.
 * Continue up the dirt trail. At the next junction (near the edge of the parking lot), turn left and go up the trail.
 * As you near Laguna Honda Blvd., look for a semi-paved path and stairway to your left, and cut over to take it down to Laguna Honda Blvd.
