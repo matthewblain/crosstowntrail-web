@@ -1,4 +1,6 @@
-# Crosstown Trail Hike Cue Sheet, Northbound
+# Hike Northbound
+
+Crosstown Trail Hike Cue Sheet, Northbound
 
 ## Section 1 - Hike North
 Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  

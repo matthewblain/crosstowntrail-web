@@ -1,6 +1,8 @@
-# Crosstown Trail Bike Cue Sheet, Southbound
+# Bicycle Southbound
 
-## Section 5 South Bike
+Crosstown Trail Bike Cue Sheet, Southbound
+
+## Section 5 - Bike South
 Lands End to Geary and Park Presidio  
 3.2 miles / 375' elevation gain
 
@@ -20,7 +22,7 @@ Lands End to Geary and Park Presidio
 
 <div style="page-break-after: always;"></div>
 
-## Section 4 South Bike
+## Section 4 - Bike South
 Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue  
 2.2 miles / 200' elevation gain
 
@@ -46,7 +48,7 @@ Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue
 
 <div style="page-break-after: always;"></div>
 
-## Section 3 South Bike
+## Section 3 - Bike South
 Judah and 16th to Forest Hill MUNI Metro Station  
 2.6 miles / 610' elevation gain
 
@@ -76,7 +78,7 @@ Judah and 16th to Forest Hill MUNI Metro Station
 
 <div style="page-break-after: always;"></div>
 
-## Section 2 South Bike
+## Section 2 - Bike South
 Forest Hill MUNI Metro Station to Glen Park BART Station  
 3.1 miles / 450' elevation gain
 
@@ -96,7 +98,7 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 
 <div style="page-break-after: always;"></div>
 
-## San Francisco Crosstown Trail, Section 1 - South Bike
+## Section 1 - Bike South
 Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area  
 5.3 miles/ 650' elevation gain
 

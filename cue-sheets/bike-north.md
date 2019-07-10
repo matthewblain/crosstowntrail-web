@@ -1,6 +1,8 @@
-# Crosstown Trail Bike Cue Sheet, Northbound
+# Bicycle Northbound
 
-## Section 1 North Bike
+Crosstown Trail Bike Cue Sheet, Northbound
+
+## Section 1 - Bike North
 Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  
 5.3 miles / 820' elevation gain
 
@@ -52,11 +54,11 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 
 <div style="page-break-after: always;"></div>
 
-## Segment 2  North Bike
+## Section 2  - Bike North
 Glen Park BART Station to Forest Hill MUNI Metro Station  
 3.1 miles / 720' of elevation gain
 
-* Segment 2 North starts at the intersection of Bosworth and Diamond, at Glen Park BART.
+* Section 2 North starts at the intersection of Bosworth and Diamond, at Glen Park BART.
 * Ride uphill (west) on Bosworth Street.
 * Where bike lane ends at sign for Glen Park Rec Center, continue on sidewalk path to climb O'Shaughnessy Blvd. (Note: **restrooms** at Rec Center.)
 * At top of O'Shaugnessy turn right onto Portola then immediately left onto Twin Peaks Blvd.
@@ -70,15 +72,15 @@ Glen Park BART Station to Forest Hill MUNI Metro Station
 * Continue up the dirt trail. At the next junction (near the edge of the parking lot), turn left and go up the trail.
 * As you near Laguna Honda Blvd., look for a semi-paved path and stairway to your left, and cut over to take it down to Laguna Honda Blvd.
 * Cross Laguna Honda Boulevard at crosswalk.
-* Segment 2 ends at Forest Hill MUNI Station.
+* Section 2 ends at Forest Hill MUNI Station.
 
 <div style="page-break-after: always;"></div>
 
-## Segment 3 North Bike
+## Section 3 - Bike North
 Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue  
 2.3 miles / 450' of elevation gain
 
-* Segment 3 starts at Forest Hill MUNI Station.
+* Section 3 starts at Forest Hill MUNI Station.
 * Note: This neighborhood is a maze of twisty streets.
 * Ride uphill on Laguna Honda Boulevard. Stay in right lane.
 * Continue straight at traffic light onto Dewey.
@@ -101,15 +103,15 @@ Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue
 * Turn right on 17th.
 * Turn right on Kirkham and go one block to 16th (bottom of Hidden Garden Steps).
 * Turn left on 16th and go one block to Irving.
-* Segment 3 North ends at 16th and Judah. (Note: Bicycles are not allowed on N Judah; bus routes 28, 7, 43, 44, and 6 are nearby).
+* Section 3 North ends at 16th and Judah. (Note: Bicycles are not allowed on N Judah; bus routes 28, 7, 43, 44, and 6 are nearby).
 
 <div style="page-break-after: always;"></div>
 
-## Section 4 North  Bike
+## Section 4 - Bike North
 Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway  
 2.2 miles / 100' elevation gain
 
-* Segment 4 North starts at 16th and Judah. (Note: Bicycles are not allowed on N Judah; bus routes 28, 7, 43, 44, and 6 are nearby)
+* Section 4 North starts at 16th and Judah. (Note: Bicycles are not allowed on N Judah; bus routes 28, 7, 43, 44, and 6 are nearby)
 * Ride down (North) 16th Avenue to Irving and turn left.
 * Turn right at 20th Avenue.
 * Continue straight into Golden Gate Park on path.  (Note: **restrooms** available on MLK just east of Crossover Drive).
@@ -124,15 +126,15 @@ Judah and 16th Avenue Across Golden Gate Park to Geary and Presidio Parkway
 * Cross Fulton and Park Presidio to NE Corner. You are now leaving Golden Gate Park.
 * Head north on wide dirt path in Presidio Park Greenway on right.
 * Follow Presidio Park Greenway to Geary Blvd. by crossing Cabrillo, Balboa, and Anza at traffic lights  .
-* Segment 4 of Crosstown Trail ends at Geary Blvd. and Presidio Park Greenway.
+* Section 4 of Crosstown Trail ends at Geary Blvd. and Presidio Park Greenway.
 
 <div style="page-break-after: always;"></div>
 
-## Segment 5 North Bike
+## Section 5 - Bike North
 Geary and Park Presidio to Lands End  
 3.2 miles / 350' elevation gain
 
-* Segment 5 starts at the intersection of Geary and Park Presidio.
+* Section 5 starts at the intersection of Geary and Park Presidio.
 * Head to the NE corner and head North on wide dirt trail in Park Presidio Greenway.
 * Cross Clement and California Streets using traffic lights on Park Presidio Blvd.
 * At Lake Street, turn left.
