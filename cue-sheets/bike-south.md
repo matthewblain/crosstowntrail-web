@@ -16,7 +16,7 @@ Lands End to Geary and Park Presidio
 * **Note: While the Coastal Trail ahead was once a railroad grade, parts of it slipped long ago. One section has a steep descent and stairway ascent. To detour, turn left on El Camino del Mar, right onto Seal Rock Drive which becomes Clement; left onto Legion of Honor Drive (opposite 34th Ave) to intersection of Legion of Honor and El Camino del Mar.**
 * Pass under USS SF Memorial and past lookout.
 * At sign saying 'bike route right' and 'no bikes' left, turn right.
-* Climb paved service road up and to the right through Lincoln Park golf course to the intersection of El Camino del Mar and Legion of Honor. (**Note: Route resumes here from detour above.) (**Restrooms and water** nearby: go west on El Camino del Mar, then bear left on driveway behind museum and follow to end.**)
+* Climb paved service road up and to the right through Lincoln Park golf course to the intersection of El Camino del Mar and Legion of Honor. (**Note: Route resumes here from detour above.**) (**Restrooms and water** nearby: go west on El Camino del Mar, then bear left on driveway behind museum and follow to end.)
 * Turn left (eastbound) on El Camino del Mar.
 * Turn right at Lake St (second intersection).
 * Continue on Lake Street, to Park Presidio Blvd, jogging left then right at 28th to stay on Lake.
