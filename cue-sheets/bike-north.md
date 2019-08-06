@@ -2,23 +2,26 @@
 
 Crosstown Trail Bike Cue Sheet, Northbound
 
+Note: This route is a combination of roads, paved pathways, and dirt trails.
+Several sections have stairways or other barriers, a detour is provided for each of them.
+No detour is provided for singletrack trails but connections are available on roads.
+
 ## Section 1 - Bike North
 Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  
 5.3 miles / 820' elevation gain
 
 * Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **restrooms**.
+* **Note**: If you park in Candlestick SRA parking areas, note closure time on signs. Cars left after hours are subject to being fined and locked in.
 * Take left fork and continue west on paved path, with views of water on both sides.
 * Continue left at next fork.
 * Past Pelican Group Picnic Area and **restrooms**, turn left to go through parking lot.
-* **NOTE: Trail drops to rocky beach at this point; to go around, turn right at Parking Lot, ride to exit of park, turn left on Hunters Pt Expressway, turn left at stop sign onto Harney Way, and turn left at crosswalk into Candlestick Park and continue straight.**
+* **NOTE: Trail drops to rocky beach at this point; to detour around, turn right at Parking Lot, ride to exit of park, turn left on Hunters Pt Expressway, turn left at stop sign onto Harney Way, and turn left at crosswalk into Candlestick Park and turn right onto dirt path.**
 * Cross wooden footbridge beyond west end of parking lot.
 * Trail becomes rocky shoreline for short stretch, then resumes.
 * Continue past closed fishing pier.
-* Trail continues as path alongside road.
-* At next intersection, turn left and follow trail along shoreline. **(Note: Resume route from detour above.)**
-* Just after the pathway turns to colored concrete, take the next hard right onto a dirt pathway which follows the road (Harney Way).
-* Follow the pathway a few hundred feet to a crosswalk exit on your left
-* Exit Candlestick Point State Recreation Area; cross Harney Way to Executive Park Blvd.
+* Trail continues as path alongside road. (**Note: Resume route from detour above**)
+* Continue straight along this path past parking lot and **restrooms** to a very short path on the right that immediately leads to a zebra crossing of Harney Way.
+* Cross Harney Way at crosswalk. Proceed one block up Executive Park Blvd.   
 * Proceed one block up Executive Park.
 * Turn left to remain on Executive Park.
 * Continue through tunnel; you are now on Blanken in Little Hollywood neighborhood.
@@ -35,7 +38,7 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * Exit Greenway at Tioga and turn left. **(Note: Resume route from detour.)**
 * Turn right at Delta.
 * Turn left at Wilde, enter McLaren Park. Take paved trail uphill.
-* **(Note: Trail through McLaren may be narrow and has several stairways. You may need to walk your bike. To go around, go back to Delta, ride uphill one block to Hamilton, ride uphill one block to Mansell, turn left on Mansell. Continue onto bike way. Turn right on Shelley Drive, then right on Cambridge to Bacon.)**
+* **Note: Trail through McLaren may be narrow and has several stairways. You may need to walk your bike. To detour around, go back to Delta, ride uphill one block to Hamilton, ride uphill one block to Mansell, turn left on Mansell. Continue onto bike way. Turn right on Shelley Drive, then right on Cambridge to Bacon.**
 * At top of stairway, you have reached an intersection with Philosopher's Way, marked with arrows on stone columns. Turn left and left again to reach intersection of Visitacion and Mansell .
 * Cross Visitacion and Mansell.
 * Continue along Philosopher’s Way by heading directly north on the paved path through the Cypress Allee.  (**restrooms** past tennis courts on your left.)

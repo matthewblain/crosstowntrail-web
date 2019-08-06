@@ -165,9 +165,8 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * Emerge from tunnel and bear left on Executive Park Blvd.
 * Opposite white gates, Executive Park Blvd. curves to the right; take it down to Harney Way.
 * Cross Harney Way to enter Candlestick Point State Recreation Area.
-* Turn right on wide dirt trail. (Note: **Restrooms** can be found a short distance to left.)
-* At next trail intersection (which is colored concrete), turn left on shoreline trail. You are now on Bay Trail and Blue Greenway.
-* When trail approaches road, turn right on narrow trail.
+* Turn left on wide dirt trail.
+* Continue on trail, past **restrooms** and parking lot.
 * Trail drops down to rocky shoreline for a short stretch, then becomes dirt again.
 * Cross wooden footbridge and continue.
 * Past a parking lot and **Restrooms**, turn right on paved trail at Pelican Group Picnic Area, heading east.

@@ -7,6 +7,7 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 5.3 miles / 820' elevation gain
 
 * Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **Restrooms**.
+* **Note**: If you park in Candlestick SRA parking areas, note closure time on signs. Cars left after hours are subject to being fined and locked in.
 * Take left fork and continue west on paved path, with views of water on both sides.
 * Continue left at next fork.
 * Past Pelican Group Picnic Area and **Restrooms**, turn left to go through parking lot.
@@ -14,11 +15,8 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * Trail becomes rocky shoreline for short stretch, then resumes.
 * Continue past closed fishing pier.
 * Trail continues as path alongside road.
-* At next intersection, turn left and follow Last Port Trail along shoreline.
-* Just after the pathway turns to colored concrete, take the next hard right onto a dirt pathway which follows the road (Harney Way).
-* Follow the roadside pathway a few hundred feet east to a crosswalk exit on your left.
-* Exit Candlestick Point State Recreation Area; cross Harney Way to Executive Park Blvd.
-* Proceed one block up Executive Park.
+* Continue straight along this path past parking lot and **restrooms** to a very short path on the right that immediately leads to a zebra crossing of Harney Way.
+* Cross Harney Way on crosswalk. Proceed one block up Executive Park Blvd.   
 * Turn left to remain on Executive Park, continuing west on north sidewalk.
 * Continue through tunnel; you are now on Blanken in Little Hollywood neighborhood.
 * Turn left at end of Blanken on Bayshore Blvd., opposite MUNI Metro T-Third stop at Arleta.
