@@ -100,7 +100,7 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 * At first staircase landing, bear left onto broken concrete pathway, then turn left onto dirt trail, then immediately turn right onto dirt trail.
 * Continue on trail and follow it to an intersection near a parking lot. Turn right on trail..
 * Where trails merge, continue straight..
-* When you reach flat open space behind Laguna Honda Hospital, bear left to follow the trail as it snakes up hill. (If you turn right to follow path through lawn to hospital, you will find restroom as well as a gathering of pigs, goats, and other farm animals (limited hours).)
+* When you reach flat open space behind Laguna Honda Hospital, bear left to follow the trail as it snakes up hill.
 * At the top of hill, you will arrive at driveway between old and new hospital complex. Turn left, following edge of employee parking lot.
 * Pick up trail to left of stop sign along curb. Follow trail uphill to Panorama (Note: Multiple trail options will all reach Panorama.)
 * Turn right on Panorama and follow sidewalk to Twin Peaks Blvd.

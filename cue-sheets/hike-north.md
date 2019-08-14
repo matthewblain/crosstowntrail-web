@@ -69,7 +69,7 @@ Glen Park BART Station to Forest Hill MUNI Metro Station
 * Just past end of sidewalk, bear left on dirt trail to enter the Laguna Honda Community Trail System.
 * At the Laguna Honda Trail kiosk, take any trail that will take you downhill to the right of the two water tanks to the hospital parking lot.
 * Follow the curb on north end of parking lot (side closest to Sutro Tower). Pass a stop sign and then turn right at the “Trail’ sign.
-* Follow a number of switchbacks downhill. At the bottom of the hill, bear right and stay on dirt trail. (NOTE: If you follow the concrete pathway to the left, you can pay a visit to the Virginia Leishman Farm (limited hours), where you will find a restroom as well as a small farmyard of friendly goats, sheep, and pigs.)
+* Follow a number of switchbacks downhill. At the bottom of the hill, bear right and stay on dirt trail.
 * Continue down the dirt trail approximately 1/4 mile to a junction. Head left and uphill.
 * Continue up the dirt trail. At the next junction (near the edge of the parking lot), turn left and go up the trail.
 * As you near Laguna Honda Blvd., look for a semi-paved path and stairway to your left, and cut over to take it down to Laguna Honda Blvd.
