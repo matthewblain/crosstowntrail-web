@@ -1,8 +1,8 @@
-# Hike Southbound
+# Walk Southbound
 
-Crosstown Trail Hike Cue Sheet, Southbound
+Crosstown Trail Walk Cue Sheet, Southbound
 
-## Section 5 - Hike South
+## Section 5 - Walk South
 Lands End to Geary and Park Presidio  
 3.9 miles / 550' elevation gain
 
@@ -33,7 +33,7 @@ Lands End to Geary and Park Presidio
 
 <div style="page-break-after: always;"></div>
 
-## Section 4 - Hike South
+## Section 4 - Walk South
 Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue  
 2.3 miles / 230' elevation gain
 
@@ -60,7 +60,7 @@ Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue
 
 <div style="page-break-after: always;"></div>
 
-## Section 3 - Hike South
+## Section 3 - Walk South
 Judah and 16th to Forest Hill MUNI Metro Station  
 2.1 miles - 650' elevation gain
 
@@ -91,7 +91,7 @@ Judah and 16th to Forest Hill MUNI Metro Station
 
 <div style="page-break-after: always;"></div>
 
-## Section 2 - Hike South
+## Section 2 - Walk South
 Forest Hill MUNI Metro Station to Glen Park BART Station  
 3.1 miles / 470' elevation gain
 
@@ -119,7 +119,7 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 
 <div style="page-break-after: always;"></div>
 
-## Section 1 - Hike South
+## Section 1 - Walk South
 Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area  
 5.6 miles / 650' elevation gain)
 

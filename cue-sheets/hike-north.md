@@ -1,8 +1,8 @@
-# Hike Northbound
+# Walk Northbound
 
-Crosstown Trail Hike Cue Sheet, Northbound
+Crosstown Trail Walk Cue Sheet, Northbound
 
-## Section 1 - Hike North
+## Section 1 - Walk North
 Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  
 5.3 miles / 820' elevation gain
 
@@ -14,8 +14,8 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * Cross wooden footbridge beyond west end of parking lot.
 * Trail becomes rocky shoreline for short stretch, then resumes.
 * Continue past closed fishing pier.
-* Trail continues as path alongside road.
-* Continue straight along this path past parking lot and **restrooms** to a very short path on the right that immediately leads to a zebra crossing of Harney Way.
+* Continue along path immediately adjacent to Harney Way. You will go past concrete traffic barriers and then a small parking lot. 
+* **Do not miss this turn**: Stay on path next to road until you arrive at a zebra crossing on your right across from a large, orange condo complex. 
 * Cross Harney Way on crosswalk. Proceed one block up Executive Park Blvd.   
 * Turn left to remain on Executive Park, continuing west on north sidewalk.
 * Continue through tunnel; you are now on Blanken in Little Hollywood neighborhood.
@@ -49,7 +49,7 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 
 <div style="page-break-after: always;"></div>
 
-## Section 2 - Hike North
+## Section 2 - Walk North
 Glen Park BART Station to Forest Hill MUNI Metro Station  
 3.1 miles / 740' elevation gain
 
@@ -71,14 +71,14 @@ Glen Park BART Station to Forest Hill MUNI Metro Station
 * Follow the curb on north end of parking lot (side closest to Sutro Tower). Pass a stop sign and then turn right at the “Trail’ sign.
 * Follow a number of switchbacks downhill. At the bottom of the hill, bear right and stay on dirt trail.
 * Continue down the dirt trail approximately 1/4 mile to a junction. Head left and uphill.
-* Continue up the dirt trail. At the next junction (near the edge of the parking lot), turn left and go up the trail.
-* As you near Laguna Honda Blvd., look for a semi-paved path and stairway to your left, and cut over to take it down to Laguna Honda Blvd.
+* Continue up the dirt trail. At the next junction (near the edge of the parking lot), turn left and go up the dirt trail.
+* Continue about 1/3 mile to a trail kiosk. Turn left, then immediately right down a semi-paved path and stairway.
 * Cross Laguna Honda Boulevard at crosswalk.
 * Section ends at Forest Hill MUNI Station.
 
 <div style="page-break-after: always;"></div>
 
-## Section 3 - Hike North
+## Section 3 - Walk North
 Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue  
 2.1 miles / 500'elevation gain)
 
@@ -110,7 +110,7 @@ Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue
 
 <div style="page-break-after: always;"></div>
 
-## Section 4 - Hike North
+## Section 4 - Walk North
 Judah and 16th Avenue to Geary and Presidio Parkway  
 2.3 miles / 120' elevation gain
 
@@ -135,7 +135,7 @@ Judah and 16th Avenue to Geary and Presidio Parkway
 
 <div style="page-break-after: always;"></div>
 
-## Section 5 - Hike North
+## Section 5 - Walk North
 Geary and Park Presidio to Lands End Lookout Visitor Center  
 3.9 miles / 510 ft. elevation gain
 
