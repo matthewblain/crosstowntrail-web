@@ -91,7 +91,7 @@ Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue
 * At top of stairs, turn left on Castenada.
 * Follow Castenada, first past Lopez and then past pole marked with street signs for San Marcos and Santa Rita.
 * About 20 yards further on the right you will see two yellow signs (“Narrow Street Trucks” and Not a Through Street”.) Walk up this “no through” street and a few yards later, ascend stairs embedded in a concrete wall on your right. Bear left as you ascend.
-* At top of stairs, turn left on San Marcos,
+* At top of stairs, turn left on San Marcos.
 * Proceed to 200 San Marcos and turn right up stairs.
 * At the top of stairs, turn left on 9th Avenue.
 * Turn right at 12th Avenue.
