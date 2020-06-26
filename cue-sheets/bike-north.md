@@ -21,7 +21,8 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * Continue past closed fishing pier.
 * Trail continues as path alongside road. (**Note: Resume route from detour above**)
 * Continue along path immediately adjacent to Harney Way. You will go past concrete traffic barriers and then a small parking lot. 
-* **Do not miss this turn**: Stay on path next to road until you arrive at a zebra crossing on your right across from a large, orange condo complex.
+* **Do not miss this turn**: Stay on path next to road until you arrive at a zebra crossing on your right across from the est end of a large, orange condo complex. 
+* **Note**: If the trail turns to concrete, you have gone too far. Go back to the zebra crossing.
 * Cross Harney Way at crosswalk. Proceed one block up Executive Park Blvd.   
 * Proceed one block up Executive Park.
 * Turn left to remain on Executive Park.
@@ -71,8 +72,8 @@ Glen Park BART Station to Forest Hill MUNI Metro Station
 * Bear left on dirt trail to enter the Laguna Honda Community Trail System.
 * At the Laguna Honda Trail kiosk, take any trail that will take you downhill to the right of the two water tanks to the hospital parking lot.
 * Follow the curb on north end of parking lot (side closest to Sutro Tower). Pass a stop sign and then turn right at the “Trail’ sign.
-* Follow a number of switchbacks downhill. At the bottom of the hill, bear right and stay on dirt trail. 
-* Continue down the dirt trail approximately 1/4 mile to a junction. Head left and uphill.
+* Follow a number of switchbacks downhill and stay on dirt trail into wooded area.
+* Continue down the dirt trail approximately 1/4 mile to a junction. Bear left and go up hill.
 * Continue up the dirt trail. At the next junction (near the edge of the parking lot), turn left and go up the trail.
 * Continue about 1/3 mile to a trail kiosk. Turn left, then immediately right down a semi-paved path and stairway.
 * Cross Laguna Honda Boulevard at crosswalk.
