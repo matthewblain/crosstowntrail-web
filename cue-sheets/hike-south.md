@@ -99,7 +99,7 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 * Cross Laguna Honda Blvd. at traffic signal in front of Muni station, turn right and ascend staircase under arch labeled "Laguna Honda Hospital and Rehabilitation Center".
 * At first staircase landing, bear left onto broken concrete pathway, then turn left onto dirt trail, then immediately turn right onto dirt trail.
 * Continue on trail and follow it to an intersection near a parking lot. Turn right on trail..
-* Where trails merge, continue straight..
+* Where trails merge, continue straight on trail past concrete corner of parking lot.
 * When you reach flat open space behind Laguna Honda Hospital, bear left to follow the trail as it snakes up hill.
 * At the top of hill, you will arrive at driveway between old and new hospital complex. Turn left, following edge of employee parking lot.
 * Pick up trail to left of stop sign along curb. Follow trail uphill to Panorama (Note: Multiple trail options will all reach Panorama.)
