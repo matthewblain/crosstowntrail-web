@@ -15,7 +15,7 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * Trail becomes rocky shoreline for short stretch, then resumes.
 * Continue past closed fishing pier.
 * Continue along path immediately adjacent to Harney Way. You will go past concrete traffic barriers and then a small parking lot. 
-* **Do not miss this turn**: Stay on path next to road until you arrive at a zebra crossing on your right across from the est end of a large, orange condo complex. 
+* **Do not miss this turn**: Stay on path next to road until you arrive at a zebra crossing on your right across from the west end of a large, orange condo complex. 
 * **Note**: If the trail turns to concrete, you have gone too far. Go back to the zebra crossing.
 * Cross Harney Way on crosswalk. Proceed one block up Executive Park Blvd.   
 * Turn left to remain on Executive Park, continuing west on north sidewalk.
