@@ -97,11 +97,11 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 
 * Section 2 South starts in front of Forest Hill MUNI Metro Station.
 * Cross Laguna Honda Blvd. at traffic signal in front of Muni station, turn right and ascend staircase under arch labeled "Laguna Honda Hospital and Rehabilitation Center".
-* At first staircase landing, bear left onto broken concrete pathway, then turn left onto dirt trail, then immediately turn right onto dirt trail.
-* Continue on trail and follow it to an intersection near a parking lot. Turn right on trail..
-* Where trails merge, continue straight on trail past concrete corner of parking lot.
-* When you reach flat open space behind Laguna Honda Hospital, bear left to follow the trail as it snakes up hill.
-* At the top of hill, you will arrive at driveway between old and new hospital complex. Turn left, following edge of employee parking lot.
+* At first staircase landing, bear left onto broken concrete pathway, then turn left onto dirt trail, then immediately turn right onto “Sherwood Road Trail”.
+* Continue on trail and follow it to an intersection near a parking lot. Bear right on “Clarendon Knob Trail”.
+* Where trails merge, continue straight on “Steep Ravine Trail”
+* When you reach flat open space behind Laguna Honda Hospital, follow the trail as it snakes up hill.
+* At the top of hill, you will arrive at driveway between old and new hospital complex. Turn left, following edge of employee parking lot signed “to Troop 88 Trail”
 * Pick up trail to left of stop sign along curb. Follow trail uphill to Panorama (Note: Multiple trail options will all reach Panorama.)
 * Turn right on Panorama and follow sidewalk to Twin Peaks Blvd.
 * Turn right and follow sidewalk to junction at Portola. (Note: Here Crosstown Trail crosses Bay Area Ridge Trail.)
