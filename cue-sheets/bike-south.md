@@ -88,9 +88,9 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 
 * Section 2 South starts in front of Forest Hill MUNI Metro Station.
 * Cross Laguna Honda Blvd. at traffic signal in front of Muni station, turn right and ascend staircase under arch labeled "Laguna Honda Hospital and Rehabilitation Center". (**Note: To detour around stairway, ride downhill on Laguna Honda Blvd; past chain link fence find a trail to the right. Bear left (steep uphill) on trail, turn right at the next intersection to reach an intersection near a parking lot. Continue straight onto main route.**)
-* At first staircase landing, bear left onto broken concrete pathway, then turn left onto dirt trail, then immediately turn right onto “Sherwood Road Trail”..
-* Continue on trail and follow it to an intersection near a parking lot. Bear right onto “Clarendon Knob Trail”.. (**Note: continue from detour here.**)
-* Where trails merge, continue straight on “Steep Ravine Trail”.
+* At first staircase landing, bear left onto broken concrete pathway, then turn left onto dirt trail, then immediately turn right onto Sherwood Road Trail..
+* Continue on trail and follow it to an intersection near a parking lot. Bear right onto Clarendon Knob Trail.. (**Note: continue from detour here.**)
+* Where trails merge, continue straight on Steep Ravine Trail.
 * When you reach flat open space behind Laguna Honda Hospital, continue on the trail as it snakes up hill.
 * At the top of hill, you will arrive at driveway between old and new hospital complex.  Turn left, following edge of employee parking lot signed “to Troop 88 Trail”.
 * Pick up trail to left of stop sign along curb. Follow trail uphill to Panorama (Note: Multiple trail options will all reach Panorama.)

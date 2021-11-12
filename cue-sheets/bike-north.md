@@ -70,13 +70,13 @@ Glen Park BART Station to Forest Hill MUNI Metro Station
 * Ride up Twin Peaks one block, turn left on Panorama.
 * At the crest of the hill, just past Mountview, switch to dirt trail on the left side of the street.
 * Bear left on dirt trail to enter the Laguna Honda Community Trail System.
-* Follow “Troop 88 Trail” to the hospital parking lot.
-* Follow the curb on north end of parking lot (side closest to Sutro Tower). Pass a stop sign and then turn right at the “Steep Ravine Trail” sign.
+* Follow Troop 88 Trail to the hospital parking lot.
+* Follow the curb on north end of parking lot (side closest to Sutro Tower). Pass a stop sign and then turn right at the Steep Ravine Trail sign.
 * Follow a number of switchbacks downhill and stay on dirt trail into wooded area.
-* Continue down the dirt trail approximately 1/3 mile to a junction. Bear left onto “Clarendon Knob Trail” and go up hill.
-* At the next junction (near the edge of the parking lot), bear left onto “Sherwood Road Trail”.
+* Continue down the dirt trail approximately 1/3 mile to a junction. Bear left onto Clarendon Knob Trail and go up hill.
+* At the next junction (near the edge of the parking lot), bear left onto Sherwood Road Trail.
 * Continue about 1/3 mile to a trail kiosk. Turn left “to Forest Hill Muni”, then immediately right down a semi-paved path and stairway.
-* **Note: to detour around stairway, from kiosk continue on “Victory Trail” 1/4 mile to street, then turn left on Laguna Honda Blvd and ride uphill to Muni station.**
+* **Note: to detour around stairway, from kiosk continue on Victory Trail 1/4 mile to street, then turn left on Laguna Honda Blvd and ride uphill to Muni station.**
 * Cross Laguna Honda Boulevard at crosswalk.
 * Section 2 ends at Forest Hill MUNI Station.
 
