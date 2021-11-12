@@ -71,8 +71,8 @@ Glen Park BART Station to Forest Hill MUNI Metro Station
 * Follow dirt path to the right of the two water tanks, then follow signs for Troop 88 Trail” to parking lot.
 * Follow the curb on north end of parking lot (side closest to Sutro Tower). Pass a stop sign and then turn right at the Steep Ravine Trail sign.
 * Follow a number of switchbacks downhill and stay on dirt trail into wooded area.
-* At the next junction (near the edge of the parking lot), turn left to follow Sherwood Road Trail
 * Continue down the dirt trail approximately 1/3 mile to a junction. Bear left onto Clarendon Knob Trail and go up hill.
+* At the next junction (near the edge of the parking lot), turn left to follow Sherwood Road Trail
 * Continue about 1/3 mile to a trail kiosk. Turn left “to Forest Hill Muni”, then immediately right down a semi-paved path and stairway.
 * Cross Laguna Honda Boulevard at crosswalk.
 * Section ends at Forest Hill MUNI Station.
