@@ -92,8 +92,8 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 * Continue on trail and follow it to an intersection near a parking lot. Bear right onto Clarendon Knob Trail.. (**Note: continue from detour here.**)
 * Where trails merge, continue straight on Steep Ravine Trail.
 * When you reach flat open space behind Laguna Honda Hospital, continue on the trail as it snakes up hill.
-* At the top of hill, you will arrive at driveway between old and new hospital complex.  Turn left, following edge of employee parking lot signed “to Troop 88 Trail”.
-* Pick up trail to left of stop sign along curb. Follow trail uphill to Panorama (Note: Multiple trail options will all reach Panorama.)
+* At the top of hill, you will arrive at driveway between old and new hospital complex.  Turn left “to Troop 88 Trail”, following edge of employee parking lot.
+* Pick up trail to left of stop sign along curb. Follow trail uphill to Panorama Dr. (Note: Multiple trail options will all reach Panorama.)
 * Turn right on Panorama.
 * Turn right at end of road onto Twin Peaks Blvd.
 * Turn right onto Portola then immediately left onto O'Shaughnessy.

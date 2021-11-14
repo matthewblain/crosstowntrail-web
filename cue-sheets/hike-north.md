@@ -68,7 +68,7 @@ Glen Park BART Station to Forest Hill MUNI Metro Station
 * Turn left on the sidewalk and walk one block to Portola/Twin Peaks Blvd. intersection.
 * Cross Twin Peaks Boulevard and turn right on sidewalk. Walk up Twin Peaks Boulevard one block to Panorama Drive and turn left on sidewalk.
 * Just past end of sidewalk, bear left on dirt trail to enter the Laguna Honda Community Trail System.
-* Follow dirt path to the right of the two water tanks, then follow signs for Troop 88 Trail” to parking lot.
+* Follow dirt path to the right of the two water tanks, then follow signs for Troop 88 Trail to parking lot.
 * Follow the curb on north end of parking lot (side closest to Sutro Tower). Pass a stop sign and then turn right at the Steep Ravine Trail sign.
 * Follow a number of switchbacks downhill and stay on dirt trail into wooded area.
 * Continue down the dirt trail approximately 1/3 mile to a junction. Bear left onto Clarendon Knob Trail and go up hill.
