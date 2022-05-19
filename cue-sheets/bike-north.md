@@ -11,7 +11,7 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 5.3 miles / 820' elevation gain
 
 * Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **restrooms**.
-* **Note**: If you park in Candlestick SRA parking areas, note closure time on signs. Cars left after hours are subject to being fined and locked in.
+* **Note**: If you park in Candlestick SRA parking areas, note closure time on signs (e.g. 5PM). Cars left after hours are subject to being fined and locked in.
 * Take left fork and continue west on paved path, with views of water on both sides.
 * Continue left at next fork.
 * Past Pelican Group Picnic Area and **restrooms**, turn left to go through parking lot.
