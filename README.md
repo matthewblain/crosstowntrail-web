@@ -19,5 +19,5 @@ Then upload the contents of the 'site/cue-sheets' directory to the /resources/cu
 ## How Translation works:
 Since mkdocs doesn't have native 'translation' support, and we're not using any wrappers/plugins,
 and since the system is really set up to use external links from the main website instead
-of internal links... the translations will be done by simply cloning the entire directory into
-a version per language.
+of internal links... the translations are done by simply creating a new file with a new name.
+This means that some of the headings, etc are in English. It's not really conceptually connected.

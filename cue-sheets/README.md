@@ -14,4 +14,6 @@ Available items:
 * [Hike North](hike-north.md) ([PDF](hike-north/hike-north.pdf))
 * [Hike South](hike-south.md) ([PDF](hike-south/hike-south.pdf))
 
+En Español
 
+* [Hacia el norte](hike-north_es.md) ([PDF](hike-north_es/hike-north_es.pdf))

@@ -114,37 +114,6 @@ Forest Hill MUNI Metro Station a la intersección de Judah y 16ª Avenida
 * Camine por la Avenida 16ª, pasando por la intersección con Lomita y Lawton hasta que llegue al segundo letrero en el poste a la izquierda montado con los dos Avenida 16ª y Lawton. Dele a la izquierda en la Avenida 16ª, para bajar en los Escalones en la Avenida 16ª “Hidden Garden Stairway.”  (Cuando va bajando, que no se le olvide voltear para observar más mosaicos bellos y artísticos.) 
 * Ya que baje los escalones, continue hacia la Avenida 16ª a la Calle Judah donde termina esta sección.  (Note: el tren N Judah Outbound [hacia la playa] para aqui; N Judah Inbound [hacia el Centro] para en la Avenida 15ª.).
 
-
-Section 3 - Walk North
-Forest Hill MUNI Metro Station to Intersection of Judah and 16th Avenue  
-2.1 miles / 500'elevation gain)
-
-* Section 3 North begins in front of Forest Hill MUNI Metro Station
-* Walk up greenway on north side of station.
-* Turn left at Magellan sidewalk and walk one block to intersection of Pacheco.
-* Cross to other side and continue to follow Magellan.
-* Ascend Pacheco Stairs that are located just past #298 Magellan.
-* At top of stairs, turn left on Castenada.
-* Follow Castenada, first past Lopez and then past pole marked with street signs for San Marcos and Santa Rita.
-* About 20 yards further on the right you will see two yellow signs (“Narrow Street Trucks” and Not a Through Street”.) Walk up this “no through” street and a few yards later, ascend stairs embedded in a concrete wall on your right. Bear left as you ascend.
-* At top of stairs, turn left on San Marcos.
-* Proceed to 200 San Marcos and turn right up stairs.
-* At the top of stairs, turn left on 9th Avenue.
-* Turn right at 12th Avenue.
-* Turn left on Quintara.
-* Turn right on 14th Avenue and walk along eastern (uphill) sidewalk.
-* Cross Radio Terrace and continue on 14th Avenue past Pacheco.
-* At Noriega, bear right and continue along 14th Avenue.
-* Continue past “Do Not Enter” sign.
-* Enter Grand View Park by ascending Moraga Stairs.
-* At top of stairs follow path on the left. (Before you reach the descending stairs on the west side, be sure to walk to the right a couple of yards to get a 360-degree view of the city.)
-* Descend the stairs on the west side.
-* Turn right at the bottom of the stairs, walk about 50 yards, and descend stairs embedded in concrete wall on left.
-* At bottom of stairs, proceed straight down hill about 50 yards and descend 16th Avenue Tiled Steps on your left. (When descending, be sure to turn around to observe the beautiful artistic tiles.)
-* Turn right on 16th Avenue.
-* Walk along 16th Avenue, past intersections with Lomita and Lawton until you come to a second sign-post on left side mounted with both 16th Avenue and Lawton signs. Turn left, as 16th Avenue sign indicates, to descend 16th Avenue Hidden Garden Stairway. (When descending stairs, be sue to turn around to observe artistic tiles.)
-* At bottom of stairs, continue straight down 16th Avenue to Judah where section ends. (Note: N Judah Outbound stops here; N Judah Inbound stops at 15th Ave.).
-
 <div style="page-break-after: always;"></div>
 
 ## 4ª Sección - Rumbo Norte
