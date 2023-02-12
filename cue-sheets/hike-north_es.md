@@ -11,18 +11,12 @@ Sunrise Point/Candlestick Point State Recreation Area al BART en Glen Park
 
 * Sección 1 Norte empieza en “Sunrise Point, Candlestick Point State Recreation Area” en un círculo pavimentado cerca a unos **Baños**. 
 * **Tenga en cuenta**: Si estaciona en el estacionamiento en Candlestick SRA, fíjese en los letreros con las horas de estacionamiento. Carros que se dejan allí fuera de las horas apuntadas pueden recibir infracciones o los pueden cerrar con llave.  
-* Tome la bifurcación izquierda en el camino y continue al oeste en el sendero pavimentado con vistas de agua en los dos lados.   
-* Continue a la izquierda en la bifurcación.
-* Pasando el “Pelican Group Picnic Area” y **Baños**, dele vuelta a la izquierda por el estacionamiento. 
-* Cruce el puente peatonal de madera más allá del lado oeste del estacionamiento.  
-* El sendero se convierte a una orilla rocosa por poco tiempo y luego continua.   
-* Continue pasado del muelle de pesca que está cerrado.  
-* Continue en el sendero inmediatamente al lado de Harney Way. Pasará unas barreras de tráfico de concreto y luego un estacionamiento pequeño.  
-* **No se le olvide dar vuelta aqui**: Quédese en el sendero al lado del camino hasta que llegue a un crucero zebra inmediatamente a su derecha frente al lado oeste de un complejo de condominios anaranjados.   
-* **Tome en cuenta**: Si el sendero es todo concreto, ha ido demasiado lejos.  Regrese al crucero de zebra.
-* Cruce Harney Way en el paso de peatones. Siga adelante una cuadra a Executive Park Blvd. 
-* Dele a la izquierda para continuar en Executive Park, continuando al oeste en la acera al norte.  
-* Continue por el túnel; ahora está en la Calle Blanken en el Vecindario “Little Hollywood.”
+* Siga el sendero estrecho de tierra que empieza entre los baños y el muelle de pesca.  Siga en los senderos de tierra y pavimentados más cerca a la bahía. En algún momento pasará por unos postes de luz extintos a su izquierda.
+* Pronto caminará en un sendero que tiene barreras de tráfico blancas a su derecha. Cuando las barreras terminan al tope de la colina, estará inmediatamente al lado de Harney Way.
+* Continúe en el sendero pasando el estacionamiento a su derecha.
+* Siga en el sendero más cercano a Harney Way, y cuando llegue al punto más al oeste del edificio residencial anaranjado a su derecha, cruze Harney way en el paso de peatones.
+* Suba el Bulevar Executive Park una cuadra y dele a la izquierda.
+* Camine tres cuadras y continúe por el túnel a la Calle Blanken en el vecindario de “Little Hollywood” (Hollywood Pequeño).
 * Dele a la izquierda al final de Blanken en Bayshore Blvd., al opuesto del MUNI Metro T-3rd en Arleta.
 * Dele a la derecha en Leland Ave. (2º semáforo).
 * En Leland, al opuesto de Peabody, dele a la derecha para entrar a la Plaza Hans Schiller, marcada por tres columnas de mosaico.  Ahora está entrando Visitacion Valley “Greenway.”
@@ -45,7 +39,11 @@ Sunrise Point/Candlestick Point State Recreation Area al BART en Glen Park
 * Siga hacia el oeste en el sendero. En la próxima bifurcación, dele a la derecha y a la derecha otra vez. Pase los **Baños** a la derecha con el Yosemite “Marsh” a su izquierda.
 * Salga del Parque McLaren en Bacon y Oxford.
 * Dele a la derecha en Bacon St.
-* Dele a la izquierda en Cambridge y camine siete cuadras a Hwy. 280.
+* Dele a la izquierda en Cambridge y camine cuatro cuadras por el semáforo en Silver.
+* Cruce al otro lado de Silver y dele a la izquierda.
+* Camine unas cuantas yardas hacia el oeste en Silver y dele a la derecha en Sunglow Lane.
+* Baje los escalones, y en la base, dele a la derecha en Glaston (no está marcado).
+* Baje Gladstone
 * Cruce Hwy. 280 en el puente peatonal al Parque St. Mary’s y siga hacia arriba pasando por la Granja.
 * Al fin del sendero, salga del Centro de Recreación St. Mary’s (**Baños**) en Murray.
 * Cruce Mission y continue al oeste en Bosworth en la acera hacia el norte. 
@@ -62,11 +60,10 @@ Estación BART Glen Park a Estación de MUNI Forest Hill
 * Camine varias yardas hacia el norte (cuesta abajo) en Diamond y dele a la izquierda en Kern.
 * Camine una cuadra y siga recto para entrar al Glen Park “Greenway.”
 * Continue tres cuadras por el Glen Park “Greenway” hasta el fin en Burnside.
-* Dele ligeramente a la dereca y camine una cuadra a Elk por Paradise.
-* Dele a la derecha y cruce al otro lado de Elk en el paso de peatones en la Chenery.  
-* Camine pasadito de la entrada principal del Parque Glen Canyon. (**Baños** están cerca y adentro del Edificio de Recreación)  
-* A unas yardas más adelante, dele a la izquierda en el sendero que va detras de las canchas de tenis en seguida del letrero verde “Rec and Park.”
-* Continue hacia el cañon en el camino de grava ancho, que después se convierte en un sendero mas estrecho al lado del arroyo. Siga las flechas en los postes que lo dirigen a Portola Avenue (aproximádamente 3/4 de una milla).
+* Dele a la derecha y cruce al otro lado del Elk en el paso de peatones para llegar a la entrada del Centro de Recreación de Glen Park.
+* Entre al parque y siga el sendero pavimentado que la llevará a la izquierda del edificio de Centro de Recreación en el anden de tablas. (**Baños** localizados en los dos el Centro de Recreación y adjunto a la plaza.)
+* Siga el sendero de tablas hasta llegar a un camino de tierra ancho.
+* Dele a la izquierda y siga el camino que se convirtirá en un sendero estrecho al lado del arroyo que lo llevará hacia el cañón. Siga las flechas en los postes que lo dirigen a Portola Avenue (aproximádamente 3/4 de una milla).
 * En Portola, inmediatamente cruce al otro lado en el paso de peatones en el semáforo. 
 * Dele a la izquierda en la acera y camine una cuadra a la intersección de Portola/Twin Peaks Blvd. 
 * Cruce el Blvd. Twin Peaks y dele a la derecha en la acera.  Camine por el Blvd. Twin Peaks una cuadra a Panorama Drive y dele a la izquierda en la acera

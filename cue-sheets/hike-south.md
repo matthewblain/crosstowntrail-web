@@ -108,8 +108,8 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 * Turn left and walk east on Portola sidewalk to first stoplight at Glenview.
 * Cross Portola, and follow trail on right side of large Rec and Park sign.
 * Follow the arrows that direct you to Recreation Center
-* After the trail widens into a dirt road, you will reach a fork with a map. Stay to the left and follow the roughly level path along the left of building (the Rec Center) and continue on the concrete path. NOTE: The Rec Center has **Restrooms**.
-* When the path reaches a city street (Elk), turn right walk down to Chenery crosswalk.
+* When you arrive at the Rec Center, follow the path around the right side of the building and then to a playground and tennis courts on your left. (Note: **Restrooms** located in Rec Center and adjacent plaza.)
+* When the path reaches a city street (Elk), walk down to Chenery crosswalk.
 * Cross to the other side and continue down Elk a few yards to Paradise.
 * Left on Paradise and walk one block to Burnside.
 * After crossing Burnside, turn right, walk a few yards up sidewalk and turn left on the dirt path of Glen Park Greenway beginning in between last two houses on street.

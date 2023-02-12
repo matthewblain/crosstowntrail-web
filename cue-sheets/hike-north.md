@@ -8,17 +8,12 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 
 * Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **Restrooms**.
 * **Note**: If you park in Candlestick SRA parking areas, note closure time on signs (e.g. 5PM). Cars left after hours are subject to being fined and locked in.
-* Take left fork and continue west on paved path, with views of water on both sides.
-* Continue left at next fork.
-* Past Pelican Group Picnic Area and **Restrooms**, turn left to go through parking lot.
-* Cross wooden footbridge beyond west end of parking lot.
-* Trail becomes rocky shoreline for short stretch, then resumes.
-* Continue past closed fishing pier.
-* Continue along path immediately adjacent to Harney Way. You will go past concrete traffic barriers and then a small parking lot. 
-* **Do not miss this turn**: Stay on path next to road until you arrive at a zebra crossing on your right across from the west end of a large, orange condo complex. 
-* **Note**: If the trail turns to concrete, you have gone too far. Go back to the zebra crossing.
-* Cross Harney Way on crosswalk. Proceed one block up Executive Park Blvd.   
-* Turn left to remain on Executive Park, continuing west on north sidewalk.
+* Follow narrow, dirt path which starts between restrooms and fishing pier. Meander down the dirt and asphalt paths that are the closest to the bay. At one time the path will have defunct light poles on its left.
+* Continue along path, which will has white traffic barriers on the right. 
+*  *I am not sure how to interpret this: * When the barriers end at the top of a slope, you will be immediately adjacent to Harney Way. 
+* Continue along the path past a parking lot on your right. 
+* Stay on the path closest to the road (Harney Way). When you reach the far end (west end) of the orange residential building on your right, cross Harney Way via the crosswalk.
+* Ascend Executive Park Blvd. one block and turn left.
 * Continue through tunnel; you are now on Blanken in Little Hollywood neighborhood.
 * Turn left at end of Blanken on Bayshore Blvd., opposite MUNI Metro T-Third stop at Arleta.
 * Turn right at Leland Ave. (Second stoplight).
@@ -42,7 +37,11 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * Proceed west on trail. At next fork, bear right and right again. Pass **Restrooms** on right and Yosemite Marsh on the left.
 * Exit McLaren Park at Bacon and Oxford.
 * Turn right on Bacon St.
-* Turn left on Cambridge and walk seven blocks to Hwy. 280.
+* Turn left on Cambridge and walk four blocks to the stoplight at Silver.
+* Cross to other side of Silver and turn left.
+* Walk a few yards west on Silver and turn right on Sunglow Lane.
+* Descend staircase, and at its base, turn right on to Gladstone (unmarked).
+* Descend Gladstone.
 * Cross Hwy. 280 on St. Mary’s Park Footbridge and go uphill, passing trail to Alemany Farm.
 * At path’s end, exit St. Mary’s Recreation Center (**Restrooms**) onto Murray.
 * Cross Mission and continue west on Bosworth on north sidewalk.
@@ -60,10 +59,10 @@ Glen Park BART Station to Forest Hill MUNI Metro Station
 * Walk one block and and go straight to enter Glen Park Greenway.
 * Continue three blocks straight along Glen Park Greenway to its end at Burnside.
 * Bear slightly right and walk up Paradise one block to Elk.
-* Turn right and cross to the other side of Elk at Chenery crosswalk
-* Walk past the main entrance to Glen Canyon Park. (**Restrooms** located in Rec. Center building.)
-* A few yards ahead, turn left on the path that goes behind the tennis courts next to the green Rec and Park sign.
-* Continue up the canyon on the wide gravel road, which later narrows to a creekside trail. Follow the arrows on the sign posts that lead you to Portola Avenue (approximately 3/4 of a mile).
+* Turn right and cross to the other side of Elk at Chenery crosswalk to arrive at entrance to Glen Park Recreation Center. 
+* Walk into park. Follow asphalt path past Rec Center building and on to wooden path. (**Restrooms** located both in Rec Center building and adjacent plaza.)
+* Follow short wooden path and dirt path to arrive at wide, dirt road. 
+* Turn left and follow gravel road, which later narrows to a creekside trail. Follow the arrows on the sign posts that lead you to Portola Avenue (approximately 3/4 of a mile).
 * At Portola, immediately cross to the other side at traffic signal.
 * Turn left on the sidewalk and walk one block to Portola/Twin Peaks Blvd. intersection.
 * Cross Twin Peaks Boulevard and turn right on sidewalk. Walk up Twin Peaks Boulevard one block to Panorama Drive and turn left on sidewalk.
