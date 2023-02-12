@@ -15,3 +15,9 @@ To build the cue-sheet part of the website
 
 Then upload the contents of the 'site/cue-sheets' directory to the /resources/cue-sheets section of the website.
 
+
+## How Translation works:
+Since mkdocs doesn't have native 'translation' support, and we're not using any wrappers/plugins,
+and since the system is really set up to use external links from the main website instead
+of internal links... the translations are done by simply creating a new file with a new name.
+This means that some of the headings, etc are in English. It's not really conceptually connected.
