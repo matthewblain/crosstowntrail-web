@@ -9,8 +9,7 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **Restrooms**.
 * **Note**: If you park in Candlestick SRA parking areas, note closure time on signs (e.g. 5PM). Cars left after hours are subject to being fined and locked in.
 * Follow narrow, dirt path which starts between restrooms and fishing pier. Meander down the dirt and asphalt paths that are the closest to the bay. At one time the path will have defunct light poles on its left.
-* Continue along path, which will has white traffic barriers on the right. 
-*  *I am not sure how to interpret this: * When the barriers end at the top of a slope, you will be immediately adjacent to Harney Way. 
+* Continue along path. Path has white traffic barriers on the right; when the barriers end at the top of a slope, you will be immediately adjacent to Harney Way. 
 * Continue along the path past a parking lot on your right. 
 * Stay on the path closest to the road (Harney Way). When you reach the far end (west end) of the orange residential building on your right, cross Harney Way via the crosswalk.
 * Ascend Executive Park Blvd. one block and turn left.
