@@ -129,10 +129,10 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * At dead-end of Murray, enter St. Mary’s Recreation Center. (**Restrooms** in rec center.)
 * Turn right and walk down service road, passing children’s playground, dog park, and path to Alemany Farm on your left.
 * Cross Hwy. 280 on St. Mary’s Park Footbridge.
-* Turn left on Cambridge.
-* Continue on Cambridge as it curves right and heads south.
-* Cross Silver. and continue on Cambridge.
-* Turn right on Bacon..
+* At end of footbridge, turn left and take an immediate right at crosswalk to ascend Gladstone. 
+* Where Gladstone bears right, ascend Sunglow Lane staircase. 
+* At top of stairs, turn left on Silver, walk a few yards to the stoplight and turn right to proceed south along Cambridge for five blocks.
+* Turn right on Bacon and go one block.
 * At Oxford, bear left to enter McLaren Park on paved path at Yosemite Marsh. Bear left, passing **Restrooms**, past a basketball court, and up short steep hill.
 * Bear left and left again on the paved path.
 * Exit trail at Cambridge; turn right and cross John F. Shelley Dr.
@@ -149,7 +149,7 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * Turn right on Delta.
 * Turn left on Tioga.
 * On the south side of block, turn right into Visitacion Valley Greenway, Native Plant Garden.
-* Turn left on Tucker..
+* Turn left on Tucker.
 * Turn right on Rutland; pass Greenway’s Agricultural Lot (gated) on right.
 * Turn left on Campbell and cross to south side.
 * Turn right into Greenway’s Children’s Playground.
@@ -163,13 +163,8 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * Turn right on Blanken, opposite SFMTA T-Line Arleta stop. You are now in Little Hollywood neighborhood.
 * After crossing Gillette, continue through tunnel on north sidewalk.
 * Emerge from tunnel and bear left on Executive Park Blvd.
-* Opposite white gates, Executive Park Blvd. curves to the right; take it down to Harney Way.
-* Cross Harney Way to enter Candlestick Point State Recreation Area.
-* Turn left on wide dirt trail.
-* Continue on trail, past **restrooms** and parking lot.
-* Trail drops down to rocky shoreline for a short stretch, then becomes dirt again.
-* Cross wooden footbridge and continue.
-* Past a parking lot and **Restrooms**, turn right on paved trail at Pelican Group Picnic Area, heading east.
-* Continue east as land becomes narrow spit, with views of water on both sides.
+* At white gates, turn right to continue on Executive Park Blvd. Descend one block, and cross Harney Way to enter Candlestick Point State Recreation Area.
+* Turn left on wide dirt path and walk past a parking lot that will soon be on your left.
+* At fork, bear left on narrow dirt trail, and shortly thereafter, follow path on right side of white traffic barriers.
+* Meander for about half a mile along dirt and asphalt trails closest to the shore of SF Bay.
 * Section ends at paved roundabout at Sunrise Point. (**Restrooms**, picnic tables, fishing pier, campground by reservation.)
-
