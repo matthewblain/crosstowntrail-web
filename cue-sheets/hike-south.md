@@ -108,8 +108,8 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 * Turn left and walk east on Portola sidewalk to first stoplight at Glenview.
 * Cross Portola, and follow trail on right side of large Rec and Park sign.
 * Follow the arrows that direct you to Recreation Center
-* After the trail widens into a dirt road, you will reach a fork with a map. Stay to the left and follow the roughly level path along the left of building (the Rec Center) and continue on the concrete path. NOTE: The Rec Center has **Restrooms**.
-* When the path reaches a city street (Elk), turn right walk down to Chenery crosswalk.
+* When you arrive at the Rec Center, follow the path around the right side of the building and then to a playground and tennis courts on your left. (Note: **Restrooms** located in Rec Center and adjacent plaza.)
+* When the path reaches a city street (Elk), walk down to Chenery crosswalk.
 * Cross to the other side and continue down Elk a few yards to Paradise.
 * Left on Paradise and walk one block to Burnside.
 * After crossing Burnside, turn right, walk a few yards up sidewalk and turn left on the dirt path of Glen Park Greenway beginning in between last two houses on street.
@@ -129,10 +129,10 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * At dead-end of Murray, enter St. Mary’s Recreation Center. (**Restrooms** in rec center.)
 * Turn right and walk down service road, passing children’s playground, dog park, and path to Alemany Farm on your left.
 * Cross Hwy. 280 on St. Mary’s Park Footbridge.
-* Turn left on Cambridge.
-* Continue on Cambridge as it curves right and heads south.
-* Cross Silver. and continue on Cambridge.
-* Turn right on Bacon..
+* At end of footbridge, turn left and take an immediate right at crosswalk to ascend Gladstone. 
+* Where Gladstone bears right, ascend Sunglow Lane staircase. 
+* At top of stairs, turn left on Silver, walk a few yards to the stoplight and turn right to proceed south along Cambridge for five blocks.
+* Turn right on Bacon and go one block.
 * At Oxford, bear left to enter McLaren Park on paved path at Yosemite Marsh. Bear left, passing **Restrooms**, past a basketball court, and up short steep hill.
 * Bear left and left again on the paved path.
 * Exit trail at Cambridge; turn right and cross John F. Shelley Dr.
@@ -149,7 +149,7 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * Turn right on Delta.
 * Turn left on Tioga.
 * On the south side of block, turn right into Visitacion Valley Greenway, Native Plant Garden.
-* Turn left on Tucker..
+* Turn left on Tucker.
 * Turn right on Rutland; pass Greenway’s Agricultural Lot (gated) on right.
 * Turn left on Campbell and cross to south side.
 * Turn right into Greenway’s Children’s Playground.
@@ -163,13 +163,8 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * Turn right on Blanken, opposite SFMTA T-Line Arleta stop. You are now in Little Hollywood neighborhood.
 * After crossing Gillette, continue through tunnel on north sidewalk.
 * Emerge from tunnel and bear left on Executive Park Blvd.
-* Opposite white gates, Executive Park Blvd. curves to the right; take it down to Harney Way.
-* Cross Harney Way to enter Candlestick Point State Recreation Area.
-* Turn left on wide dirt trail.
-* Continue on trail, past **restrooms** and parking lot.
-* Trail drops down to rocky shoreline for a short stretch, then becomes dirt again.
-* Cross wooden footbridge and continue.
-* Past a parking lot and **Restrooms**, turn right on paved trail at Pelican Group Picnic Area, heading east.
-* Continue east as land becomes narrow spit, with views of water on both sides.
+* At white gates, turn right to continue on Executive Park Blvd. Descend one block, and cross Harney Way to enter Candlestick Point State Recreation Area.
+* Turn left on wide dirt path and walk past a parking lot that will soon be on your left.
+* At fork, bear left on narrow dirt trail, and shortly thereafter, follow path on right side of white traffic barriers.
+* Meander for about half a mile along dirt and asphalt trails closest to the shore of SF Bay.
 * Section ends at paved roundabout at Sunrise Point. (**Restrooms**, picnic tables, fishing pier, campground by reservation.)
-
