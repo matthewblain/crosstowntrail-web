@@ -17,3 +17,8 @@ Available items:
 En Español
 
 * [Hacia el norte](hike-north_es.md) ([PDF](hike-north_es/hike-north_es.pdf))
+
+Doublecross Trail
+
+* [Hike Doublecross North](doublecross-north.md) ([PDF](doublecross-north/doublecross-north.pdf))
+* [Hike Doublecross South](doublecross-south.md) ([PDF](doublecross-south/doublecross-south.pdf))
