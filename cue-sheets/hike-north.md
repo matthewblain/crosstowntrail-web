@@ -4,7 +4,7 @@ Crosstown Trail Walk Cue Sheet, Northbound
 
 ## Section 1 - Walk North
 Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  
-5.3 miles / 820' elevation gain
+6.1 miles / 820' elevation gain
 
 * Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **Restrooms**.
 * **Note**: If you park in Candlestick SRA parking areas, note closure time on signs (e.g. 5PM). Cars left after hours are subject to being fined and locked in.
@@ -44,7 +44,18 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * Cross Hwy. 280 on St. Mary’s Park Footbridge and go uphill, passing trail to Alemany Farm.
 * At path’s end, exit St. Mary’s Recreation Center (**Restrooms**) onto Murray.
 * Cross Mission and continue west on Bosworth on north sidewalk.
-* Section ends at Glen Park BART Station at Bosworth and Diamond.
+* Walk 2 blocks down Bosworth and turn R on Cuvier.
+* At mural, ascend short flight of stairs and turn R on San Jose.
+* Cross St. Marys and bear R to ascend Bernal Cut Path. 
+* Ascend Bernal Cut Path 2 blocks and walk L to cross Richland bridge.
+* At end of bridge take immediate L on to Arlington Path that parallels San Jose.
+* When flowered Arlington Path descends to spot immediately adjacent to green Monterey Blvd. sign, turn right and ascend stairway. 
+* At top of stairs, turn L and follow Arlington one block to Arlington Triangle Pollinator Garden at Roanoke.
+* Just past the Arlington Pollinator Garden sign, walk left upon dirt path which, after descending through CA native plant restoration area, will morph into a sidewalk that will ascend back to Arlington.
+* Walk left on Arlington and, at stop sign, cross to other side.
+* Walk R up Natick, turn L on Chenery and walk two blocks to Diamond.
+* Turn L at Diamond, and to traffic light.
+* Section ends at Glen Park BART Station, at Bosworth and Diamond.
 
 <div style="page-break-after: always;"></div>
 
@@ -119,10 +130,12 @@ Judah and 16th Avenue to Geary and Presidio Parkway
 * Enter Golden Gate Park at Lincoln Way on right side of Breon Gate. Walk up asphalt path a few yards to Martin Luther King Jr. Drive.
 * Cross MLK Jr. Drive at stoplight, walk right about 50 yards, turn left at first asphalt path, and ascend hill adjacent to the restroom.
 * When you reach the shore of Stow Lake, turn right and walk a short distance to the stone and brick Rustic Bridge.
-* Cross to the other side of bridge onto the island, then turn left and follow dirt path. Keep left at two junctions, along the shore, until you arrive at the gray cement Roman Bridge.
-* Cross the 2nd bridge, turn left, and follow sidewalk along shore until you arrive at the east end of the Stow Lake Boat House.
+* Cross to the other side of bridge onto the island and turn right.   
+* Follow dirt path past the Chinese Pavilion and Huntington Falls to arrive at the gray-cement Roman Bridge.
+* Cross the bridge, turn left…
+* Follow sidewalk along shore until you arrive at the east end of the Blue Heron Lake Boat House.
 * Turn right on the very short asphalt road that descends toward the **Restrooms** and turn right on sidewalk.
-* Cross one-way Stow Lake Drive East at crosswalk and continue east along asphalt path parallel to Stow Lake Drive.
+* Cross one-way Blue Heron Lake Drive East at crosswalk and continue east along asphalt path parallel to Blue Heron Lake Drive.
 * About 40 yards further, turn right onto dirt path.
 * Bear left on the main trail as a path enters on the right; proceed behind Log Cabin and along right side of Pioneer East Meadow.
 * Continue straight across next T- junction on the wide dirt path, and eventually ascends to T-stop at asphalt path on the west side of the Tea Garden.
@@ -136,15 +149,19 @@ Judah and 16th Avenue to Geary and Presidio Parkway
 
 ## Section 5 - Walk North
 Geary and Park Presidio to Lands End Lookout Visitor Center  
-3.9 miles / 510 ft. elevation gain
+4.5 miles / 510 ft. elevation gain
 
 * Section 5 North starts at northeast side of Geary and Park Presidio.
 * Enter Park Presidio Greenway on dirt path between Park Presidio and Funston.
 * Follow Greenway to Lake St. by crossing Clement and California at traffic lights.
-* Cross Lake, cross Park Presidio.
-* Walk one short block and turn right on 14th Ave.
-* Walk one block and turn left on asphalt path (Anza Trail) that runs in front of Entry Gate to Presidio.
-* After passing Lobos Valley Overlook, and before reaching Wedermeyer Rd., turn left on unmarked dirt trail (Lobos Creek Valley Trail).
+* Cross Lake, and immediately ascend asphalt path into Mountain Lake Park.
+* Walk to the left of restroom and playground to first junction.
+* Veer L off asphalt path (at basketball court on your R) to continue along dirt Mountain Lake Trail. Keep L at next junction and continue along asphalt path.
+* Walk under State Highway 1, ascend to next junction, and turn L.
+* About 50 yards past junction, ascend staircase on right all the way to top. Continue to follow Mountain Lake Trail. (**Note**: At one point along Mountain Lake Trail, you will come to a very short boardwalk on your right that will lead to abandoned US Marine Hospital Cemetery [1881-1912]).
+* Turn L at next junction to follow path adjacent to road in front of building.
+* Walk about 30 yards to Wedemeyer Street (unmarked) and turn L before crossing the street, and descend dirt path adjacent to Wedemeyer.
+* At first crosswalk, walk to other side of Wedemeyer, and take immediate, sharp R onto Lobos Creek Valley Trail.
 * As you descend sandy trail, avoid all turnoffs to the right.
 * As you approach the bottom of the valley floor, you will see a Lobos Creek Valley Trail sign on your left that will lead you down a few stairs to a boardwalk.
 * Follow the boardwalk trail about a half mile until it ends on Bowley.
