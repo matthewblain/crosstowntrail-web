@@ -138,7 +138,7 @@ Judah and 16th Avenue to Geary and Presidio Parkway
 * Cross one-way Blue Heron Lake Drive East at crosswalk and continue east along asphalt path parallel to Blue Heron Lake Drive.
 * About 40 yards further, turn right onto dirt path.
 * Bear left on the main trail as a path enters on the right; proceed behind Log Cabin and along right side of Pioneer East Meadow.
-* Continue straight across next T- junction on the wide dirt path, and eventually ascends to T-stop at asphalt path on the west side of the Tea Garden.
+* Continue straight across next T- junction on the wide dirt path, and eventually ascend to T-stop at asphalt path on the west side of the Tea Garden.
 * Turn left and descend to John F. Kennedy Drive sidewalk.
 * Turn right 50 yards then cross JFK Drive at stop sign and walk through Rose Garden to Fulton.
 * Cross Fulton to immediately enter dirt path of Presidio Park Greenway on right.

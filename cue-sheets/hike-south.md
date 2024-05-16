@@ -3,7 +3,7 @@
 Crosstown Trail Walk Cue Sheet, Southbound
 
 ## Section 5 - Walk South
-Lands End to Geary and Park Presidio  
+Lands End to Geary and Park Presidio
 4.5 miles / 550' elevation gain
 
 * Section 5 South starts at ocean side of Lands End Lookout visitors center (**Restrooms**, water, cafe, info).
@@ -30,7 +30,7 @@ Lands End to Geary and Park Presidio
 * Walk up trail to T stop at stone wall, and turn R onto wide dirt trail.
 * Keep R as dirt trail merges with asphalt path (basketball court on your L).
 * After passing playground and **restrooms** on your left, ascend hill, and then descend to Lake St.
-* Cross Lake and enter Presidio Parkway Trail. 
+* Cross Lake and enter Presidio Parkway Trail.
 * Walk south along the wide dirt/gravel path of the Park Presidio Greenway which begins at southwest corner of Lake and Funston.
 * Continue along the Greenway by crossing California and Clement Streets at traffic lights
 * Section 5 ends at Geary Blvd. and Park Presidio Blvd.
@@ -38,7 +38,7 @@ Lands End to Geary and Park Presidio
 <div style="page-break-after: always;"></div>
 
 ## Section 4 - Walk South
-Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue  
+Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue
 2.3 miles / 230' elevation gain
 
 * Section 4 South begins at southeast corner of Geary and Park Presidio Blvd.
@@ -49,14 +49,14 @@ Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue
 * Walk past fence protecting small gardener’s shed on your left. About 50 yards farther, at the crest of the hill, turn right on gray-gravel path that veers off on right.
 * Descend dirt path that will soon flatten out as it borders Pioneer East Meadow on right.
 * Continue straight across T-junction with another dirt trail. When trail goes behind Log Cabin, pass another junction; bear right uphill on the main path.
-* Turn left on asphalt path and then proceed across crosswalk across one-way B Lake Drive East. Continue straight on sidewalk as it ascends west toward Stow Lake Boat House.
+* Turn left on asphalt path and then proceed across crosswalk across one-way Blue Heron Lake Drive East. Continue straight on sidewalk as it ascends west toward Blue Heron Lake Boat House.
 * Opposite restroom, walk left up very short asphalt road going past Boat House on its east side.
-* Turn left at Stow Lake and follow asphalt trail along shore until you arrive at the gray cement Roman Bridge.
+* Turn left at Blue Heron Lake and follow asphalt trail along shore until you arrive at the gray cement Roman Bridge.
 * Cross bridge and turn left.
 * Walk along shore past the Chinese Pavilion and Huntington Falls to arrive at the stone and brick Rustic Bridge.
-* Walk across bridge and turn right.   
+* Walk across bridge and turn right.
 * Descend first asphalt path on left, going south.
-* Cross Stow Lake Drive and continue to descend.
+* Cross Blue Heron Lake Drive and continue to descend.
 * Just after you pass restroom on left, turn right sidewalk, walk about 50 yards to first intersection, cross Martin Luther King Jr. Drive, and follow asphalt path to exit Golden Gate Park through Breon Gate to Lincoln Way.
 * Cross Lincoln and walk up 19th Avenue one block to Irving.
 * Turn left at Irving and walk three blocks east to 16th Avenue.
@@ -65,7 +65,7 @@ Geary and Park Presidio Blvd. Across Golden Gate Park to Judah and 16th Avenue
 <div style="page-break-after: always;"></div>
 
 ## Section 3 - Walk South
-Judah and 16th to Forest Hill MUNI Metro Station  
+Judah and 16th to Forest Hill MUNI Metro Station
 2.1 miles - 650' elevation gain
 
 * Section 3 South begins at intersection of Judah and 16th Avenue.
@@ -96,7 +96,7 @@ Judah and 16th to Forest Hill MUNI Metro Station
 <div style="page-break-after: always;"></div>
 
 ## Section 2 - Walk South
-Forest Hill MUNI Metro Station to Glen Park BART Station  
+Forest Hill MUNI Metro Station to Glen Park BART Station
 3.1 miles / 470' elevation gain
 
 * Section 2 South starts in front of Forest Hill MUNI Metro Station.
@@ -124,7 +124,7 @@ Forest Hill MUNI Metro Station to Glen Park BART Station
 <div style="page-break-after: always;"></div>
 
 ## Section 1 - Walk South
-Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area  
+Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 6.1 miles / 650' elevation gain)
 
 * Section 1 South starts at intersection of Bosworth and Diamond, at Glen Park BART.
@@ -137,13 +137,13 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * Cross bridge, and take an immediate, hidden R at end of bridge to join Bernal Cut Path.
 * Follow path, bearing R at little library, and descend to exit Bernal Cut.
 * Cross St. Marys St and walk along San Jose a short distance. Just before pedestrian overcrossing, descend staircase to Cuvier cul-de-sac.
-* Follow Cuvier to Bosworth and turn L.  
+* Follow Cuvier to Bosworth and turn L.
 * Cross Mission. and continue on Murray..
 * At dead-end of Murray, enter St. Mary’s Recreation Center. (**Restrooms** in rec center.)
 * Turn right and walk down service road, passing children’s playground, dog park, and path to Alemany Farm on your left.
 * Cross Hwy. 280 on St. Mary’s Park Footbridge.
-* At end of footbridge, turn left and take an immediate right at crosswalk to ascend Gladstone. 
-* Where Gladstone bears right, ascend Sunglow Lane staircase. 
+* At end of footbridge, turn left and take an immediate right at crosswalk to ascend Gladstone.
+* Where Gladstone bears right, ascend Sunglow Lane staircase.
 * At top of stairs, turn left on Silver, walk a few yards to the stoplight and turn right to proceed south along Cambridge for five blocks.
 * Turn right on Bacon and go one block.
 * At Oxford, bear left to enter McLaren Park on paved path at Yosemite Marsh. Bear left, passing **Restrooms**, past a basketball court, and up short steep hill.
