@@ -1,6 +1,6 @@
 # Walk Northbound
 
-Crosstown Trail Walk Cue Sheet, Sorthbound
+Crosstown Trail Walk Cue Sheet, Northbound
 
 ## Section 1 - Walk North
 Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  
