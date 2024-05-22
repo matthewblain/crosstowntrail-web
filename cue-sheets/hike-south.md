@@ -24,14 +24,14 @@ Lands End to Geary and Park Presidio
 * Follow the sandy trail until it meets Wedemeyer Street.
 * Cross Wedemeyer and turn L to ascend dirt path (Anza Trail) adjacent to Wedemeyer.
 * Before next  crosswalk, take R on dirt path adjacent to road in front of building.
-* Follow path about 30 yards and turn R onto Mountain Lake Trail. (**Note**: At one point along Mountain Lake Trail, you will come to a very short boardwalk on your left that will lead to abandoned US Marine Hospital Cemetery [1881-1912])
-* After descending to bottom of long staircase, turn L onto Mountain Lake Trail
+* Follow path about 30 yards and turn R onto Mountain Lake Trail.
+* After descending staircase, turn L onto Mountain Lake Trail
 * Walk about 50 yards to junction and bear R to descend trail under State Highway 1.
 * Walk up trail to T stop at stone wall, and turn R onto wide dirt trail.
 * Keep R as dirt trail merges with asphalt path (basketball court on your L).
 * After passing playground and **restrooms** on your left, ascend hill, and then descend to Lake St.
 * Cross Lake and enter Presidio Parkway Trail.
-* Walk south along the wide dirt/gravel path of the Park Presidio Greenway which begins at southwest corner of Lake and Funston.
+* Walk south along the wide dirt/gravel path of the Park Presidio Greenway, which begins at southwest corner of Lake and Funston.
 * Continue along the Greenway by crossing California and Clement Streets at traffic lights
 * Section 5 ends at Geary Blvd. and Park Presidio Blvd.
 
@@ -131,7 +131,7 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * Head North (away from BART Station) on Diamond Street.
 * Follow Diamond to Chenery, turn R, and ascend Chenery two blocks to Natick.
 * Turn R and walk down Natick, cross Arlington to other side, and walk L to a sidewalk-Y opposite #546 Arlington.
-* Bear R at Y to descend to dirt path that will lead you through a CA native plant restoration area and back to Arlington.
+* Bear R at Y to descend to dirt path that will lead you back to Arlington.
 * Walk R on Arlington and proceed to a staircase adjacent to #455.
 * Descend staircase, turn L onto Arlington Path, and ascend to Richland bridge,
 * Cross bridge, and take an immediate, hidden R at end of bridge to join Bernal Cut Path.
@@ -140,11 +140,11 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * Follow Cuvier to Bosworth and turn L.
 * Cross Mission. and continue on Murray..
 * At dead-end of Murray, enter St. Mary’s Recreation Center. (**Restrooms** in rec center.)
-* Turn right and walk down service road, passing children’s playground, dog park, and path to Alemany Farm on your left.
+* Turn right and walk down service road to Hwy. 280
 * Cross Hwy. 280 on St. Mary’s Park Footbridge.
 * At end of footbridge, turn left and take an immediate right at crosswalk to ascend Gladstone.
 * Where Gladstone bears right, ascend Sunglow Lane staircase.
-* At top of stairs, turn left on Silver, walk a few yards to the stoplight and turn right to proceed south along Cambridge for five blocks.
+* At top of stairs, turn left on Silver, walk a few yards to stoplight and turn right to proceed south along Cambridge for five blocks.
 * Turn right on Bacon and go one block.
 * At Oxford, bear left to enter McLaren Park on paved path at Yosemite Marsh. Bear left, passing **Restrooms**, past a basketball court, and up short steep hill.
 * Bear left and left again on the paved path.
@@ -176,8 +176,11 @@ Glen Park BART to Sunrise Point/Candlestick Point State Recreation Area
 * Turn right on Blanken, opposite SFMTA T-Line Arleta stop. You are now in Little Hollywood neighborhood.
 * After crossing Gillette, continue through tunnel on north sidewalk.
 * Emerge from tunnel and bear left on Executive Park Blvd.
-* At white gates, turn right to continue on Executive Park Blvd. Descend one block, and cross Harney Way to enter Candlestick Point State Recreation Area.
-* Turn left on wide dirt path and walk past a parking lot that will soon be on your left.
-* At fork, bear left on narrow dirt trail, and shortly thereafter, follow path on right side of white traffic barriers.
-* Meander for about half a mile along dirt and asphalt trails closest to the shore of SF Bay.
-* Section ends at paved roundabout at Sunrise Point. (**Restrooms**, picnic tables, fishing pier, campground by reservation.)
+* At white gate, turn right to continue on Executive Park. Descend one block, and cross Harney to enter Candlestick Point State Recreation Area.
+* Turn R at Crosstown Trail signpost.
+* At next Crosstown Trail signpost located at beginning of colored concrete, turn L to follow dirt path going east with the bay on your right.
+* At Y, bear R onto narrow path that proceeds toward white traffic barriers.
+* Turn R at Crosstown Trail signpost to follow dirt path to R of white traffic barriers.
+* Further along path, continue onto old roadway, keeping bay on your right.
+* When you see a circular parking lot to the right, take short, dirt path from old roadway to parking lot.
+* Proceed to other side of building and follow asphalt path (again with bay to your right) leading eastward to Sunrise Point Fishing Pier, the end of Section 1 South. (**Porta-potty**, and picnic table)
