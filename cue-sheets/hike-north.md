@@ -6,40 +6,46 @@ Crosstown Trail Walk Cue Sheet, Northbound
 Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  
 6.1 miles / 820' elevation gain
 
-* Section 1 North begins at Sunrise Point, Candlestick Point State Recreation Area, at paved roundabout with nearby **Restrooms**.
+* Section 1 North begins at Sunrise Point Fishing Pier, Candlestick Point State Recreation Area, at paved roundabout with nearby **porta-potty**.
 * **Note**: If you park in Candlestick SRA parking areas, note closure time on signs (e.g. 5PM). Cars left after hours are subject to being fined and locked in.
-* Follow narrow, dirt path which starts between restrooms and fishing pier. Meander down the dirt and asphalt paths that are the closest to the bay. At one time the path will have defunct light poles on its left.
-* Continue along path. Path has white traffic barriers on the right; when the barriers end at the top of a slope, you will be immediately adjacent to Harney Way. 
-* Continue along the path past a parking lot on your right. 
-* Stay on the path closest to the road (Harney Way). When you reach the far end (west end) of the orange residential building on your right, cross Harney Way via the crosswalk.
-* Ascend Executive Park Blvd. one block and turn left.
+* From Sunrise Point, walk west along asphalt road.
+* Bear Left (L) at Y and continue along asphalt path.
+* Turn L at building and continue through paved, circular, parking area (Windsurf Circle).
+* Follow short, dirt path and continue along old roadway.
+* At defunct, overhead lights, walk left onto dirt path to left of green box.
+* Follow path with white traffic barriers to your right.
+* Bear L at Crosstown Trail signpost.
+* Continue along dirt path adjacent to bay.
+* When dirt road morphs to colored concrete, take extreme right at Crosstown Trail signpost.
+* At next Crosstown Trail signpost, turn L to cross Harney.
+* Ascend Executive Park one block and turn L.
 * Continue through tunnel; you are now on Blanken in Little Hollywood neighborhood.
-* Turn left at end of Blanken on Bayshore Blvd., opposite MUNI Metro T-Third stop at Arleta.
-* Turn right at Leland Ave. (Second stoplight).
-* On Leland, opposite Peabody, turn right into Hans Schiller Plaza, marked by three tiled columns. You are now entering Visitacion Valley Greenway.
+* Turn L at end of Blanken on Bayshore Blvd., opposite MUNI Metro T-Third stop at Arleta.
+* Turn R at Leland Ave. (Second stoplight).
+* On Leland, opposite Peabody, turn R into Hans Schiller Plaza, marked by three tiled columns. You are now entering Visitacion Valley Greenway.
 * Cross Raymond, ascend Greenway three blocks.
-* Turn left at Teddy and turn right mid-block to continue up Greenway.
-* Turn left at Campbell.
-* Turn right at Rutland, and proceed uphill one block to Tucker.
-* Cross Tucker and turn left.
-* Turn right into Greenway.
-* Exit Greenway at Tioga and turn left.
-* Turn right at Delta.
-* Turn left at Wilde, enter McLaren Park. Take paved trail uphill.
-* At top of stairway, you have reached an intersection with Philosopher's Way, marked with arrows on stone columns. Turn left and left again to reach intersection of Visitacion and Mansell .
+* Turn L at Teddy and turn R mid-block to continue up Greenway.
+* Turn L at Campbell.
+* Turn R at Rutland, and proceed uphill one block to Tucker.
+* Cross Tucker and turn L.
+* Turn R into Greenway.
+* Exit Greenway at Tioga and turn L.
+* Turn R at Delta.
+* Turn L at Wilde, enter McLaren Park. Take paved trail uphill.
+* At top of stairway, you have reached an intersection with Philosopher's Way, marked with arrows on stone columns. Turn L and L again to reach intersection of Visitacion and Mansell .
 * Cross Visitacion and Mansell.
 * Continue along Philosopher’s Way by heading directly north on the paved path through the Cypress Allee. (**Restrooms** past tennis courts on your left.)
 * Proceed downhill and northwest, following Philosopher’s Way arrows across a road.
 * Cross Shelley Dr. and follow Philosopher’s Way arrows as trail curves right, past caretaker’s cottage. (**Restrooms** at Jerry Garcia Amphitheater to your left).
-* Continue straight along the paved path, leaving Philosopher’s Way, to the interesction of Shelley Dr. and Cambridge Dr..
+* Continue straight along the paved path, leaving Philosopher’s Way, to the interesction of Shelley Dr. and Cambridge Dr.
 * Cross intersection and pick up paved path on left (approximately 30 feet down Cambridge).
-* Proceed west on trail. At next fork, bear right and right again. Pass **Restrooms** on right and Yosemite Marsh on the left.
+* Proceed west on trail. At next fork, bear R and R again. Pass **Restrooms** on right and Yosemite Marsh on the left.
 * Exit McLaren Park at Bacon and Oxford.
-* Turn right on Bacon St.
-* Turn left on Cambridge and walk four blocks to the stoplight at Silver.
-* Cross to other side of Silver and turn left.
-* Walk a few yards west on Silver and turn right on Sunglow Lane.
-* Descend staircase, and at its base, turn right on to Gladstone (unmarked).
+* Turn R on Bacon St.
+* Turn L on Cambridge and walk four blocks to the stoplight at Silver.
+* Cross to other side of Silver and turn L.
+* Walk a few yards west on Silver and turn R on Sunglow Lane.
+* Descend staircase, and at its base, turn R on to Gladstone (unmarked).
 * Descend Gladstone.
 * Cross Hwy. 280 on St. Mary’s Park Footbridge and go uphill, passing trail to Alemany Farm.
 * At path’s end, exit St. Mary’s Recreation Center (**Restrooms**) onto Murray.
@@ -49,10 +55,10 @@ Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART
 * Cross St. Marys and bear R to ascend Bernal Cut Path. 
 * Ascend Bernal Cut Path 2 blocks and walk L to cross Richland bridge.
 * At end of bridge take immediate L on to Arlington Path that parallels San Jose.
-* When flowered Arlington Path descends to spot immediately adjacent to green Monterey Blvd. sign, turn right and ascend stairway. 
+* When flowered Arlington Path descends to spot immediately adjacent to green Monterey Blvd. sign, turn R and ascend stairway. 
 * At top of stairs, turn L and follow Arlington one block to Arlington Triangle Pollinator Garden at Roanoke.
-* Just past the Arlington Pollinator Garden sign, walk left upon dirt path which, after descending through CA native plant restoration area, will morph into a sidewalk that will ascend back to Arlington.
-* Walk left on Arlington and, at stop sign, cross to other side.
+* Just past the Arlington Pollinator Garden sign, walk L upon dirt path which will descend and morph into a sidewalk ascending back to Arlington.
+* Walk L on Arlington and, at stop sign, cross to other side.
 * Walk R up Natick, turn L on Chenery and walk two blocks to Diamond.
 * Turn L at Diamond, and to traffic light.
 * Section ends at Glen Park BART Station, at Bosworth and Diamond.
@@ -158,21 +164,21 @@ Geary and Park Presidio to Lands End Lookout Visitor Center
 * Walk to the left of restroom and playground to first junction.
 * Veer L off asphalt path (at basketball court on your R) to continue along dirt Mountain Lake Trail. Keep L at next junction and continue along asphalt path.
 * Walk under State Highway 1, ascend to next junction, and turn L.
-* About 50 yards past junction, ascend staircase on right all the way to top. Continue to follow Mountain Lake Trail. (**Note**: At one point along Mountain Lake Trail, you will come to a very short boardwalk on your right that will lead to abandoned US Marine Hospital Cemetery [1881-1912]).
+* About 50 yards past junction, ascend staircase on right to top. Continue to follow Mountain Lake Trail. (**Note**: At one point along Mountain Lake Trail, you will come to a very short boardwalk on your right that will lead to abandoned US Marine Hospital Cemetery [1881-1912]).
 * Turn L at next junction to follow path adjacent to road in front of building.
 * Walk about 30 yards to Wedemeyer Street (unmarked) and turn L before crossing the street, and descend dirt path adjacent to Wedemeyer.
 * At first crosswalk, walk to other side of Wedemeyer, and take immediate, sharp R onto Lobos Creek Valley Trail.
 * As you descend sandy trail, avoid all turnoffs to the right.
 * As you approach the bottom of the valley floor, you will see a Lobos Creek Valley Trail sign on your left that will lead you down a few stairs to a boardwalk.
 * Follow the boardwalk trail about a half mile until it ends on Bowley.
-* Turn left and walk across Lincoln at crosswalk and then straight across Lincoln’s sidewalk.
-* Turn left on dirt trail and 10 yards farther, turn right on another dirt trail.
+* Turn L and walk across Lincoln at crosswalk and then straight across Lincoln’s sidewalk.
+* Turn L on dirt trail and 10 yards farther, turn R on another dirt trail.
 * The dirt trail will eventually narrow along a chain link fence on your right.
 * When the narrow trail opens up at Baker Beach, walk immediately to your left to follow Coastal Trail up stairs to a black gate at the cul de sac of 25th Ave. North.
-* Exit cul de sac and turn right on Sea Cliff and walk along near sidewalk..
+* Exit cul de sac and turn R on Sea Cliff and walk along near sidewalk..
 * When you come to a yellow Dead End sign, walk on its left to continue along Seacliff. (The dead-end road on the right descends to China Beach where there are **Restrooms**.)
 * Seacliff sidewalk will soon merge seamlessly into El Camino del Mar sidewalk.
-* Follow El Camino del Mar past 32nd Ave. and turn right to enter Lands End of the Golden Gate National Recreation Area.
+* Follow El Camino del Mar past 32nd Ave. and turn R to enter Lands End of the Golden Gate National Recreation Area.
 * Follow the Coastal Trail about 1.5 miles to reach the Lands End Lookout Visitor Center (**Restrooms**, cafe) where section ends.
 
 
