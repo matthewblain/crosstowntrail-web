@@ -45,6 +45,7 @@ This section includes Ft. Funston, Lake Merced hike/bike path, Harding Park golf
 This section passes through Edgehill Open Space, Twin Peaks, Tank Hill, Mt. Olympus and Buena Vista Park. 
 4.82 miles / 560' elevation gain
 
+
 * Start at Intersection of West Portal and Ulloa.
 * Ascend Lenox, on left (north) side of West Portal Station.
 * Halfway uphill, turn right on to unmarked Dog Play pathway in between West Portal Elementary school and West Portal Playground.
