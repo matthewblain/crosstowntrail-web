@@ -5,7 +5,7 @@
 *Transit*: 58 Muni bus to stop at John Muir Dr and Skyline Blvd., 15-minute walk to trailhead.
 
 This section includes Ft. Funston, Lake Merced hike/bike path, Harding Park golf course, Pine Lake Park, Stern Grove and West Portal.
-4.85 miles.
+4.85 miles / 570' elevation gain.
 
 
 * Start at Boardwalk overlook at west end of parking lot by hang-glider launching area.
@@ -43,7 +43,7 @@ This section includes Ft. Funston, Lake Merced hike/bike path, Harding Park golf
 *Transit* K, M or S Light Rail Lines or bus 48 or 57 to West Portal Muni Station.
 
 This section passes through Edgehill Open Space, Twin Peaks, Tank Hill, Mt. Olympus and Buena Vista Park. 
-4.82 miles
+4.82 miles / 560' elevation gain
 
 
 * Start at Intersection of West Portal and Ulloa.
@@ -94,7 +94,7 @@ This section passes through Edgehill Open Space, Twin Peaks, Tank Hill, Mt. Olym
 *Transit*: MUNI Metro N line to Duboce Park.
 
 This section passes through Alamo Square, Hayes Valley, City Hall, Nob Hill, Chinatown, North Beach, Washington Square and Telegraph Hill. 
-4.53 miles
+4.53 miles / 630' elevation gain
 
 * Start at Duboce Park Muni stop (interesction of Duboce and Noe) to begin this section.
 * Enter Duboce Park and follow asphalt path between playground and dog play area.

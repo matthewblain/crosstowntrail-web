@@ -5,7 +5,7 @@
 *Transit*: F Market Light Rail stop at Pier 23, Embarcadero & Greenwich St.
 
 This section includes Telegraph Hill, North Beach, Chinatown, Nob Hill, Civic Center, Hayes Valley, Alamo Square and Lower Haight.
-4.53 Miles
+4.53 Miles / 790' elevation gain
 
  
 
@@ -48,7 +48,7 @@ This section includes Telegraph Hill, North Beach, Chinatown, Nob Hill, Civic Ce
 *Transit*: N Judah to Duboce Park.
 
 This section includes Buena Vista Park, Mt. Olympus, Tank Hill, Twin Peaks, and Edgehill Open Space.
-4.82 Miles
+4.82 Miles / 1040' elevation gain
 
 * Start at Duboce Park entrance at N Judah Light Rail Stop at Duboce and Noe.
 * Ascend Duboce and turn right onto Scott. (**Restrooms** in Harvey Milk Recreation center, closed Sunday and Monday.)
@@ -99,7 +99,7 @@ This section includes Buena Vista Park, Mt. Olympus, Tank Hill, Twin Peaks, and 
 *Transit*: K, M, or S Light Rail Lines or bus 48 or 57 to West Portal Muni Station.
 
 This section includes West Portal, Stern Grove and Pine Lake Park, Lake Merced and Fort Funston.
-4.85 miles
+4.85 miles / 390' elevation gain
 
 
 * Start at West Portal station.
