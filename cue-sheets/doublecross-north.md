@@ -69,12 +69,12 @@ This section passes through Edgehill Open Space, Twin Peaks, Tank Hill, Mt. Olym
 * Turn right to descend on car-free Twin Peaks Blvd. (Optional: At the crosswalk, turn right onto the signposted trail running parallel to Twin Peaks Blvd. Follow this trail to a sharp right bend in the road, then hop the guardrail to continue down the paved road.)
 * After passing yellow barrier, continue until T-intersection at Clarendon. 
 * Cross Clarendon at crosswalk and turn right.
-* Walk a few yards and turn left to ascend wooden steps to Tank Hill.
+* Walk a few yards and turn left to ascend wooden steps to Tank Hill. **Note**: From July to October 2024, this stairway will be closed; **Detour:** stay on road (Twin Peaks Blvd) to end at Carmel and Clayton.
 * Walk across hilltop to arrive at bench and overlook.
 * Walk a few yards left and descend wooden steps to Belgrave.
 * Take first right (Shrader) and then the next right (Carmel).
-* Follow Carmel to its terminus at Clayton.
-* Walk left and cross both 17th St. and Clayton at light.
+* Follow Carmel to its terminus at Clayton. **Detour end point**.
+* Walk left (north on Clayton) and cross both 17th St. and Clayton at light.
 * Walk along north side of 17th a few yards, and ascend stairway on your left.
 * At the top of stairs, turn left to ascend Upper Terrace (unmarked). When you reach the Mt. Olympus structure, walk around it on the right, and descend stairway located between #'s 455 and 484.  
 * Turn left at bottom of stairway and follow Upper Terrace to Buena Vista Park.
@@ -88,6 +88,7 @@ This section passes through Edgehill Open Space, Twin Peaks, Tank Hill, Mt. Olym
 * Path descends to concrete stairway and then on to junction of Buena Vista East and Duboce.
 * Cross and walk left down Buena Vista East until Adah’s Stairway on right, opposite the decommissioned red fire alarm. Descend stairs and continue on Waller.  
 * Cross Divisadero/Castro at either crosswalk and continue down to Scott. Turn right on Scott and left on Duboce to arrive at N Judah Light Rail stop adjacent to Duboce Park entrance. (**Restrooms** in Harvey Milk Rec Center, closed Sunday and Monday).
+
 
 ## Section 3 - Duboce Park to The Embarcadero 
 

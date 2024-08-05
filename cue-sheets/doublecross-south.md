@@ -64,12 +64,13 @@ This section includes Buena Vista Park, Mt. Olympus, Tank Hill, Twin Peaks, and 
 * Follow Upper Terrace 3 ½ blocks, and ascend stairway adjacent to #240.
 * At top of stairs, turn right on sidewalk around Mt. Olympus statue and follow Upper Terrace down to stairway adjacent to #353.
 * Descend stairs, turn right on 17th St. and cross both 17th and Clayton at light.
-* Walk south on Clayton one block and turn right on Carmel.
+* Walk south on Clayton one block and turn right on Carmel. **Note**: From July to October 2024, the stairway at tank hill **Detour** by bearing right up Twin Peaks Blvd instead of going down Carmel. Continue up sidewalk of Twin Peaks Blvd to stop sign.
 * Left on Shrader.
 * Left on Belgrave, and a block further, ascend stairs to arrive at Tank Hill.
-* Walk left past bench and continue to circle around until you arrive at stairway that descends to Clarendon.
-* Right on Clarendon, and cross both Clarendon and Twin Peaks Blvd. at connecting crosswalks.
-* Walk up east side of Twin Peaks Blvd.past yellow barricade to reach vehicle-free road.
+* Walk left past bench and continue to circle around until you arrive at stairway that descends to Clarendon. 
+* Right on street (Twin Peaks Blvd) to stop sign. **Detour end point**
+* Cross streets (Clarendon and Twin Peaks Blvd.) at connecting crosswalks. 
+* Walk up east side of Twin Peaks Blvd. past yellow barricade to reach vehicle-free road.
 * Ascend Twin Peaks Blvd. (**Optional**: At point where road takes very sharp left near top, hop guard rail and walk left up dirt path to crosswalk.)
 * Bear left to enter parking area and walk left along sidewalk next to railing.
 * Walk past viewpoint (Christmas Tree Point) and two kiosk **restrooms** and take sharp left onto vehicle-free Twin Peaks Promenade. (**Note**: At this point you can either follow Promenade or climb peaks, If you opt to ascend peaks, refer to next bulleted direction to get back on route.)
@@ -92,6 +93,7 @@ This section includes Buena Vista Park, Mt. Olympus, Tank Hill, Twin Peaks, and 
 * Right on pathway in between West Portal Elementary School and West Portal Playground.
 * Left on Lenox.
 * Left on Ulloa to West Portal Station (**Note**: Access to K, M, and S Light Rail lines)
+
 
  
 ## Section 1 - West Portal Station to Fort Funston
