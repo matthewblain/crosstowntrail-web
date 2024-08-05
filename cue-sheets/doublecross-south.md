@@ -64,7 +64,7 @@ This section includes Buena Vista Park, Mt. Olympus, Tank Hill, Twin Peaks, and 
 * Follow Upper Terrace 3 ½ blocks, and ascend stairway adjacent to #240.
 * At top of stairs, turn right on sidewalk around Mt. Olympus statue and follow Upper Terrace down to stairway adjacent to #353.
 * Descend stairs, turn right on 17th St. and cross both 17th and Clayton at light.
-* Walk south on Clayton one block and turn right on Carmel. **Note**: From July to October 2024, the stairway at tank hill **Detour** by bearing right up Twin Peaks Blvd to stop sign.
+* Walk south on Clayton one block and turn right on Carmel. **Note**: From July to October 2024, the stairway at tank hill **Detour** by bearing right up Twin Peaks Blvd instead of going down Carmel. Continue up sidewalk of Twin Peaks Blvd to stop sign.
 * Left on Shrader.
 * Left on Belgrave, and a block further, ascend stairs to arrive at Tank Hill.
 * Walk left past bench and continue to circle around until you arrive at stairway that descends to Clarendon. 
