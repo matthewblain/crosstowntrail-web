@@ -107,8 +107,11 @@ This section passes through Alamo Square, Hayes Valley, City Hall, Nob Hill, Chi
 * Right on Geary. 
 * Left on Polk.
 * Right on California.
-* Left on Taylor and enter Huntington Park. (**Note**: Bonus points for ascending Grace Cathedral stairs and walking labyrinth.)
-* Exit park at middle of north side onto Sacramento (unmarked) by the children’s playground.
+* Left on Taylor and right to enter Huntington Park by the fountain. (**Note**: Bonus points for ascending Grace Cathedral stairs and walking labyrinth.)
+* Exit park at middle of east side onto Cushman St.
+* Right on Cushman.
+* Left on California.
+* Left on Powell.
 * Right on Sacramento.
 * Left on Pagoda Alley next to Willie “Woo Woo” Wong Playground.
 * Right on Clay St.
