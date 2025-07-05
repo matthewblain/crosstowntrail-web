@@ -27,8 +27,11 @@ This section includes Telegraph Hill, North Beach, Chinatown, Nob Hill, Civic Ce
 * At Washington, make quick left-right jog onto Waverly Place for one block.
 * Right on Clay.
 * Left on Hang Ah Alley, passing Willie “Woo Woo” Wong playground.
-* Turn right, ascend Sacramento to its highpoint, and enter Huntington Park at children’s playground just before Taylor.
-* Exit Huntington Park on Taylor across from Grace Cathedral steps and walk left to California. (**Note**: Double Cross bonus points for ascending Grace Cathedral steps, and walking labyrinth.)
+* Turn right, ascend Sacramento to Powell St.
+* Left on Powell.
+* Right on California.
+* Right on Cushman St to entrace of Huntington Park near fountain.
+* Cross Huntington Park to Taylor St. and Grace Cathedral steps and turn left to California. (**Note**: Double Cross bonus points for ascending Grace Cathedral steps, and walking labyrinth.)
 * Right on California.
 * Left on Polk.
 * Right on Geary.
