@@ -1,13 +1,16 @@
 # Walk Northbound
 
 Crosstown Trail Walk Cue Sheet, Northbound
+The trailhead for Section 1 is located a few yards to the right of the small kiosk in the first parking lot you reach not far from the main entrance to Candlestick Park at the end of Gilman Avenue. * **Note**: If you park in Candlestick parking areas, note closure time on signs (e.g. 5PM). Cars left after hours are subject to being fined and locked in.
 
-## Section 1 - Walk North
-Sunrise Point/Candlestick Point State Recreation Area to Glen Park BART  
-6.1 miles / 820' elevation gain
-
-* Section 1 North begins at Sunrise Point Fishing Pier, Candlestick Point State Recreation Area, at paved roundabout with nearby **porta-potty**.
-* **Note**: If you park in Candlestick SRA parking areas, note closure time on signs (e.g. 5PM). Cars left after hours are subject to being fined and locked in.
+Walk in between gigantic blue flower pots.
+Turn right on sidewalk.
+About 40 yards further, continue straight on to asphalt path.
+At water, turn right on asphalt path. (Note: Soon there is a portapotty adjacent to a closed restroom building on your right.)
+Follow asphalt/dirt/gravel path about ¾ of a mile keeping the bay on your left. 
+At junction at base of peninsula, turn left and follow path keeping bay on your left. 
+After passing campsite on your right, you will soon arrive at Sunrise Pt. at entrance to fishing pier. (Note: Portapotty in front of closed restroom.)
+Walk west on path adjacent to restroom.   
 * From Sunrise Point, walk west along asphalt road.
 * Bear Left (L) at Y and continue along asphalt path.
 * Turn L at building and continue through paved, circular, parking area (Windsurf Circle).
