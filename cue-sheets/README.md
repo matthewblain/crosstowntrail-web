@@ -11,8 +11,8 @@ Available items:
  
 * [Bike North](bike-north.md) ([PDF](bike-north/bike-north.pdf))
 * [Bike South](bike-south.md) ([PDF](bike-south/bike-south.pdf))
-* [Hike North](hike-north.md) ([PDF](hike-north/hike-north.pdf))
-* [Hike South](hike-south.md) ([PDF](hike-south/hike-south.pdf))
+* [Walk North](hike-north.md) ([PDF](hike-north/hike-north.pdf))
+* [Walk South](hike-south.md) ([PDF](hike-south/hike-south.pdf))
 
 En Español
 
@@ -20,5 +20,9 @@ En Español
 
 Doublecross Trail
 
-* [Hike Doublecross North](doublecross-north.md) ([PDF](doublecross-north/doublecross-north.pdf))
-* [Hike Doublecross South](doublecross-south.md) ([PDF](doublecross-south/doublecross-south.pdf))
+* [Walk Doublecross North](doublecross-north.md) ([PDF](doublecross-north/doublecross-north.pdf))
+* [Walk Doublecross South](doublecross-south.md) ([PDF](doublecross-south/doublecross-south.pdf))
+
+Roundabout
+
+* [Walk Rondabout Clockwise](roundabout-clockwise.md) ([PDF](roundabout-clockwise/roundabout-clockwise.pdf))
