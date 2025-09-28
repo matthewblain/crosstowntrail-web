@@ -1,7 +1,7 @@
 site_name: Crosstown Trail Cue Sheets
 docs_dir: cue-sheets
 site_dir: site/cue-sheets
-google_analytics: ['UA-140052176-1', 'crosstowntrail.org']
+google_analytics: ['G-F2FZ59MF42', 'crosstowntrail.org']
 site_favicon: https://crosstowntrail.org/wp-content/uploads/2019/04/cropped-crosstowntraillogo-1-32x32.png
 
 # With the mkdcos theme, the nav across the top looks horrible with many many items.

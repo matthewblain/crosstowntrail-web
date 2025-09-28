@@ -8,6 +8,8 @@ To generate the cue sheet sub-website, install mkdocs and run it.
 
 The mkdocs-pdf-export-plugin contains all dependencies needed except for Cairo...
 You'll need to read the docs to install GTK for that. See the Weasyprint instructions.
+Possibly run gtk2r-env.bat
+
 
 To build the cue-sheet part of the website
 
