@@ -77,11 +77,13 @@ Judah and 16th to Forest Hill MUNI Metro Station
 * At top of stairs, walk a few steps to your left to reach summit and enjoy the view.
 * Return to trail, turn left and walk around hill to east side and descend stairs.
 * At bottom of stairs, turn right on first sidewalk you come to (14th Avenue).
+* *Restroom Detour* -- See below.
 * Continue along 14th Avenue past Noriega, Ortega, Mount Lane, and Ortega Way keeping Rocky Outcrop on your left.
 * Ascend 14th Ave. at Pacheco. (Do not go up Pacheco Stairs on left.) Stay on eastern sidewalk of 14th Avenue.
 * Cross Radio and continue along 14th Avenue on eastern sidewalk.
 * At crest of 14th Avenue turn left on Quintara.
 * Walk up Quintara two blocks and turn right on 12th Avenue.
+* *Restroom Detour* -- Resume here.
 * Turn left on 9th Avenue and remain on sidewalk on right past where 9th Avenue divides in two streets at dip of hill.
 * Descend staircase just past 2242 9th Avenue.
 * Turn left at bottom of stairs at first sidewalk (San Marcos).
@@ -92,6 +94,17 @@ Judah and 16th to Forest Hill MUNI Metro Station
 * Turn left on Magellan at bottom of stairs.
 * Follow Magellan one block to greenway opposite Sola Avenue
 * Turn right on greenway path and descend a few stairs on left to arrive at Forest Hill MUNI Metro Station on Laguna Honda Blvd. where section ends.
+
+Restroom Detour from Grandview Park
+* Walk south along 14th Avenue and turn left on Ortega St.
+* Turn right on 9th Ave.
+* Note: J.P. Murphy Playground (restrooms, water) on 9th before Pacheco.
+* Turn right on Pacheco St.
+* Ascend Oriole Way stairs.
+* Turn left on Cragmont.
+* Turn right on Quintara St.
+* Turn left on 12th Ave.
+* Continue as above: Turn left on 9th Avenue...
 
 <div style="page-break-after: always;"></div>
 
