@@ -79,6 +79,7 @@ Judah and 16th to Forest Hill MUNI Metro Station
 * Cross Radio and continue along 14th Avenue on eastern sidewalk.
 * At crest of 14th Avenue turn left on Quintara.
 * Walk up Quintara two blocks and turn right on 12th Avenue.
+* *Restroom Detour* -- Resume here.
 * Turn left on 9th Avenue and remain on sidewalk on right past where 9th Avenue divides in two streets at dip of hill.
 * Descend staircase just past 2242 9th Avenue.
 * Turn left at bottom of stairs at first sidewalk (San Marcos).
@@ -91,8 +92,7 @@ Judah and 16th to Forest Hill MUNI Metro Station
 * Turn right on greenway path and descend a few stairs on left to arrive at Forest Hill MUNI Metro Station on Laguna Honda Blvd. where section ends.
 
 Restroom Detour from Grandview Park
-* At bottom of stairs, turn right on first sidewalk you come to (14th Avenue).
-* Turn left on Ortega St.
+* Walk south along 14th Avenue and turn left on Ortega St.
 * Turn right on 9th Ave.
 * Note: J.P. Murphy Playground (restrooms, water) on 9th before Pacheco.
 * Turn right on Pacheco St.
