@@ -27,10 +27,14 @@
 *Transit*: Muni 44 O’Shaughnessy and 19 Polk stop one block away at Evans and Middle Point.  
 8.3 miles / 485' elevation gain.  
 
-* Enter Heron’s Head Park (**porta-potty**) on path to right of park’s name in concrete. Shortly thereafter, bear right on asphalt path and follow causeway across water.
-* Turn left and then right onto footbridge. Bear left to follow Hunters Point Power Plant Trail along shoreline.
-* Cross Hawes (no sign) and continue to follow path along shoreline and into India Basin Waterfront Park.
-* Walk through park (passing **restrooms** above first set of stairs), turn right to ascend second set of stairs to Innes.
+
+
+* *Note: Due to construction at India Basin Shoreline Park through 2028, route will go around that park.*
+* Head south on Jennings Street.
+* Turn left on Evans Street.
+* Bear right around curve to continue on Hunters Point Blvd.
+* Turn left at Hudson St (No street sign, in front of Box Shop) and continue into India Basin Waterfront Park, turn right on path.
+* Walk through park (passing **restrooms** above first set of stairs), turn right to ascend second set of stairs to Innes. 
 * Turn left and walk east on Innes. Turn left at Donahue and right at Galvez (no sign).
 * Just before guard shack, walk right and immediately bear left to ascend walkway. (After passing through “Frame” sculpture, be sure to turn around to admire it and the “Refrain” sculpture in the distance.)
 * At the top, continue clockwise along large green lawn. Bear left to follow Innes Court (no sign) for one block.
