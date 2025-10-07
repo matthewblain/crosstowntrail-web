@@ -45,7 +45,7 @@
 * At La Salle, ascend stairs on right to Hilltop Park (**restrooms**). Circle counter-clockwise around park, continuing along Whitney Young Circle at park’s edge. Re-enter park at the left, just before Newcomb. With playground on left, continue down ramp to La Salle.
 * Cross La Salle (caution; no crosswalk) and continue down Garlington, picking up path at its end behind fenced recycling area, and into Adam Rodgers Park (restrooms).
 * Follow S curve path down and to the left, emerging onto Oakdale.
-* Turn left on Ingalls and continue for 12 blocks.
+* Turn right on Ingalls and continue for 12 blocks.
 * Turn left on Carroll and walk one long block. Just past Griffith, turn left between concrete barriers with small dog walker sign to reach path behind Candlestick Point State Park office. 
 * Bear right and continue on wide dirt trail. At parking lot, bear left through yellow bollards. Bear left at fork. At next fork, bear right to take Meadow Loop Trail (signed). 
 * Upon arriving at paved trail, turn right. At T intersection, turn left to arrive at Crosstown Trail trailhead (signed). Continue to follow trail, with the shoreline on left.
