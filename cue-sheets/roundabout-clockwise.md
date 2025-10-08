@@ -22,6 +22,8 @@
 * Section 1 ends at Heron's Head Park (**Restrooms**).
 
 
+<div style="page-break-after: always;"></div>
+
 ## Roundabout Section 2 Clockwise: Heron’s Head Park to Visitacion Valley Greenway
 *Trailhead*: Heron’s Head Park, 32 Jennings  
 *Transit*: Muni 44 O’Shaughnessy and 19 Polk stop one block away at Evans and Middle Point.  
@@ -65,6 +67,7 @@
 * Section 2 ends at bottom of Visitaction Valley Greenway at Leland and Peabody.
 
 
+<div style="page-break-after: always;"></div>
 
 ## Roundabout Section 3 Clockwise: Visitacion Valley Greenway to Daly City BART 
 *Trailhead*: Visitacion Valley Greenway, next to Mission Blue, 144 Leland  
@@ -97,6 +100,7 @@
 * Walk right at stop sign to finish Section 3 at Daly City BART.
 
 
+<div style="page-break-after: always;"></div>
 
 
 ## Roundabout Section 4 Clockwise: Daly City BART to Lands' End 
@@ -127,6 +131,8 @@
 * Cross Point Lobos Ave and walk left to finish Section 4 at Lands End Lookout Visitors Center (**Restrooms**).
 
 
+<div style="page-break-after: always;"></div>
+
 ## Roundabout Section 5 Clockwise: Lands End to Tunnel Tops
 *Trailhead*: Lands End Lookout Visitors Center  
 *Transit*: Muni 38 and 38R Geary stop on 48th Ave, a block away.  
@@ -147,6 +153,7 @@
 * Proceed to Presidio Transit Center (**restrooms**, cafe) to finish Section 5. 
 
 
+<div style="page-break-after: always;"></div>
 
 ## Roundabout Section 6 Clockwise: Tunnel Tops to Ferry Building
 *Trailhead*: Presidio Transit Center  

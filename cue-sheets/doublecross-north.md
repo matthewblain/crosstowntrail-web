@@ -38,6 +38,9 @@ This section includes Ft. Funston, Lake Merced hike/bike path, Harding Park golf
 * Proceed downhill on Wawona to 14th Ave. and turn right.
 * Turn left on West Portal Ave. and walk to West Portal Station.
 
+
+<div style="page-break-after: always;"></div>
+
 ## Section 2 - West Portal Station to Duboce Park 
 
 *Transit* K, M or S Light Rail Lines or bus 48 or 57 to West Portal Muni Station.
@@ -88,6 +91,8 @@ This section passes through Edgehill Open Space, Twin Peaks, Tank Hill, Mt. Olym
 * Cross and walk left down Buena Vista East until Adah’s Stairway on right, opposite the decommissioned red fire alarm. Descend stairs and continue on Waller.  
 * Cross Divisadero/Castro at either crosswalk and continue down to Scott. Turn right on Scott and left on Duboce to arrive at N Judah Light Rail stop adjacent to Duboce Park entrance. (**Restrooms** in Harvey Milk Rec Center, closed Sunday and Monday).
 
+
+<div style="page-break-after: always;"></div>
 
 ## Section 3 - Duboce Park to The Embarcadero 
 

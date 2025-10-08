@@ -45,6 +45,7 @@ This section includes Telegraph Hill, North Beach, Chinatown, Nob Hill, Civic Ce
 * Walk across Hayes and follow Pierce to Duboce Park entrance
 * Follow path that leads to playground, and exit park at N Judah Light Rail Stop at Duboce and Noe. (**Restrooms** in Harvey Milk Rec Center, closed Sunday and Monday.  
 
+<div style="page-break-after: always;"></div>
 
 ## Section 2 - Duboce Park to West Portal Station
 
@@ -98,6 +99,7 @@ This section includes Buena Vista Park, Mt. Olympus, Tank Hill, Twin Peaks, and 
 * Left on Ulloa to West Portal Station (**Note**: Access to K, M, and S Light Rail lines)
 
 
+<div style="page-break-after: always;"></div>
  
 ## Section 1 - West Portal Station to Fort Funston
 
