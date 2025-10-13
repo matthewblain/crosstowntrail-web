@@ -42,7 +42,7 @@
 * At the top, continue clockwise along large green lawn. Bear left to follow Innes Court (no sign) for one block.
 * Turn left on Coleman, which flows into Kirkwood.
 * Turn left on La Salle, right on Earl, and left on Kirkwood, which flows into Kiska.
-* Cross Ingalls and turn right. Turn left on Northridge, then left on Espanola.
+* Cross Ingalls and turn right. Turn left on Rosie Lee, then left on Espanola.
 * Turn right on Matthew and continue on path to arrive at Shoreview Park. Turn left on Lillian and then right on Beatrice. At cul-de-sac, continue on path as it merges with community facility driveway on right.
 * At La Salle, ascend stairs on right to Hilltop Park (**restrooms**). Circle counter-clockwise around park, continuing along Whitney Young Circle at park’s edge. Re-enter park at the left, just before Newcomb. With playground on left, continue down ramp to La Salle.
 * Cross La Salle (caution; no crosswalk) and continue down Garlington, picking up path at its end behind fenced recycling area, and into Adam Rodgers Park (restrooms).
