@@ -21,7 +21,7 @@
 * Continue on Amador through two right-angled turns to Heron’s Head Park, at intersection of Amador, Jennings, and Cargo.
 * Section 1 ends at Heron's Head Park (**Restrooms**).
 
-*Transit note*: Muni 19 inbound (to Polk) and 44 outbound (to 3rd) stop at Evans and Keith. To get there from Heron's Head Park, continue south one block on Jennings, turn right on Evans and walk one block to Keith. 19 outbound and 44 inbound stop at Evans and Middle Point.
+*Transit note*: Muni 19 inbound (to Polk) and 44 outbound (to 3rd) stop at Evans and Keith. To get there from Heron's Head Park, continue south one block on Jennings, turn right on Evans and walk one block to Keith. 19 outbound and 44 inbound stop at Evans and Middle Point (Jennings).
 
 <div style="page-break-after: always;"></div>
 
