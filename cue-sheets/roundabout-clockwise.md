@@ -45,7 +45,7 @@
 * Cross Ingalls and turn right. Turn left on Rosie Lee.
 * Enter Shoreview Park and follow path across park, exiting down accessible ramp to cul-de-sac (end of Beatrice).
 * At cul-de-sac, turn right on sidewalk outside of chain link fence. Continue past fence to driveway.
-* Follow sidewalk on right side of driveway past building to street (LaSalle, unmarked).
+* Follow sidewalk on right side of driveway past building to LaSalle Street (unmarked).
 * Immediately turn right (180 degrees) into Hilltop Park.
 * Ascend wooden stairs on right to Hilltop Park (**restrooms**). Circle counter-clockwise around park, continuing along Whitney Young Circle at park’s edge. Re-enter park at the left, just before Newcomb. With playground on left, continue down ramp to La Salle.
 * Cross La Salle (caution; no crosswalk) and continue down Garlington, picking up path at its end behind fenced recycling area, and into Adam Rodgers Park (restrooms).
