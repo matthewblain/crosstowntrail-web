@@ -21,7 +21,7 @@
 * Continue on Amador through two right-angled turns to Heron’s Head Park, at intersection of Amador, Jennings, and Cargo.
 * Section 1 ends at Heron's Head Park (**Restrooms**).
 
-*Transit note*: Muni 19 and 44 westbound stop at Evans and Keith. To get there from Heron's Head Park, continue south one block on Jennings, turn right on Evans and walk one block to Keith.
+*Transit note*: Muni 19 and 44 northbound stop at Evans and Keith. To get there from Heron's Head Park, continue south one block on Jennings, turn right on Evans and walk one block to Keith.
 
 <div style="page-break-after: always;"></div>
 
