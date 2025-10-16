@@ -21,13 +21,13 @@
 * Continue on Amador through two right-angled turns to Heron’s Head Park, at intersection of Amador, Jennings, and Cargo.
 * Section 1 ends at Heron's Head Park (**Restrooms**).
 
-*Transit note*: Muni 19 and 44 northbound stop at Evans and Keith. To get there from Heron's Head Park, continue south one block on Jennings, turn right on Evans and walk one block to Keith.
+*Transit note*: Muni 19 inbound (to Polk) and 44 outbound (to 3rd) stop at Evans and Keith. To get there from Heron's Head Park, continue south one block on Jennings, turn right on Evans and walk one block to Keith. 19 outbound and 44 inbound stop at Evans and Middle Point.
 
 <div style="page-break-after: always;"></div>
 
 ## Roundabout Section 2 Clockwise: Heron’s Head Park to Visitacion Valley Greenway
 *Trailhead*: Heron’s Head Park, 32 Jennings  
-*Transit*: Muni 44 O’Shaughnessy and 19 Polk stop one block away at Evans and Middle Point.  
+*Transit*: Muni 44 O’Shaughnessy and 19 Polk stop one block away at Evans and Middle Point or Middle Point and Acacia.  
 8.3 miles / 485' elevation gain.  
 
 
