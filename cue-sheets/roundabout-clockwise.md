@@ -21,12 +21,13 @@
 * Continue on Amador through two right-angled turns to Heron’s Head Park, at intersection of Amador, Jennings, and Cargo.
 * Section 1 ends at Heron's Head Park (**Restrooms**).
 
+*Transit note*: Muni 19 inbound (to Polk) and 44 outbound (to 3rd) stop at Evans and Keith. To get there from Heron's Head Park, continue south one block on Jennings, turn right on Evans and walk one block to Keith. 19 outbound and 44 inbound stop at Evans and Middle Point (Jennings).
 
 <div style="page-break-after: always;"></div>
 
 ## Roundabout Section 2 Clockwise: Heron’s Head Park to Visitacion Valley Greenway
 *Trailhead*: Heron’s Head Park, 32 Jennings  
-*Transit*: Muni 44 O’Shaughnessy and 19 Polk stop one block away at Evans and Middle Point.  
+*Transit*: Muni 44 O’Shaughnessy and 19 Polk stop one block away at Evans and Middle Point or Middle Point and Acacia.  
 8.3 miles / 485' elevation gain.  
 
 
@@ -42,9 +43,12 @@
 * At the top, continue clockwise along large green lawn. Bear left to follow Innes Court (no sign) for one block.
 * Turn left on Coleman, which flows into Kirkwood.
 * Turn left on La Salle, right on Earl, and left on Kirkwood, which flows into Kiska.
-* Cross Ingalls and turn right. Turn left on Rosie Lee, then left on Espanola.
-* Turn right on Matthew and continue on path to arrive at Shoreview Park. Turn left on Lillian and then right on Beatrice. At cul-de-sac, continue on path as it merges with community facility driveway on right.
-* At La Salle, ascend stairs on right to Hilltop Park (**restrooms**). Circle counter-clockwise around park, continuing along Whitney Young Circle at park’s edge. Re-enter park at the left, just before Newcomb. With playground on left, continue down ramp to La Salle.
+* Cross Ingalls and turn right. Turn left on Rosie Lee.
+* Enter Shoreview Park and follow path across park, exiting down accessible ramp to cul-de-sac (end of Beatrice).
+* At cul-de-sac, turn right on sidewalk outside of chain link fence. Continue past fence to driveway.
+* Follow sidewalk on right side of driveway past building to LaSalle Street (unmarked).
+* Immediately turn right (180 degrees) into Hilltop Park.
+* Ascend wooden stairs on right to Hilltop Park (**restrooms**). Circle counter-clockwise around park, continuing along Whitney Young Circle at park’s edge. Re-enter park at the left, just before Newcomb. With playground on left, continue down ramp to La Salle.
 * Cross La Salle (caution; no crosswalk) and continue down Garlington, picking up path at its end behind fenced recycling area, and into Adam Rodgers Park (restrooms).
 * Follow S curve path down and to the left, emerging onto Oakdale.
 * Turn right on Ingalls and continue for 12 blocks.
